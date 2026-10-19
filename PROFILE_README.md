@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-divider.svg" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-divider-mini.gif" alt="" />
 
 </div>
 
@@ -194,7 +194,7 @@ A focused selection of public projects. The images are original editorial projec
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-divider.svg" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-divider-mini.gif" alt="" />
 
 </div>
 
@@ -248,7 +248,7 @@ The profile header uses a real looping GIF for motion on GitHub. The README itse
 </p>
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-divider.svg" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-divider-mini.gif" alt="" />
 
 </div>
 
@@ -328,7 +328,7 @@ I use code to build user-facing tools, connect services, automate repetitive tas
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-divider.svg" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-divider-mini.gif" alt="" />
 
 </div>
 
@@ -361,7 +361,7 @@ I use code to build user-facing tools, connect services, automate repetitive tas
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-divider.svg" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-divider-mini.gif" alt="" />
 
 </div>
 
@@ -381,7 +381,7 @@ My working principles are simple: **intent over decoration, clarity over clutter
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-divider.svg" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-divider-mini.gif" alt="" />
 
 </div>
 
@@ -397,7 +397,7 @@ My working principles are simple: **intent over decoration, clarity over clutter
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-divider.svg" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-divider-mini.gif" alt="" />
 
 </div>
 
