@@ -306,16 +306,9 @@ An information-first web project centered on clarity, accessibility, and source 
 </details>
 
 <details>
-<summary><strong>Quizziy / ExamFlow</strong> — educational app experiments</summary>
+<summary><strong>Private quiz / assessment app experiments</strong></summary>
 
-Experiments in quiz creation, assessment interfaces, and AI-assisted learning workflows.
-
-- Question-based learning experiences
-- Web UI and app-structure exploration
-- API-connected feature experiments
-- Focus on making information easier to navigate and use
-
-[Quizziy-test](https://github.com/64r3al/Quizziy-test) · [ExamFlow](https://github.com/64r3al/ExamFlow) · [ExamFlow Studio](https://github.com/64r3al/remix-examflow-studio)
+These projects explore question-based learning, assessment interfaces, and AI-assisted study workflows. Their repositories are private, so source links are intentionally omitted from this public portfolio.
 
 </details>
 
