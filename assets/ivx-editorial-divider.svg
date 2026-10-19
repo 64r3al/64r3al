@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="78" viewBox="0 0 1200 78" role="img" aria-label="Monochrome editorial section divider">
+<defs><pattern id="grain" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="2" cy="3" r=".7" fill="#111" opacity=".17"/><circle cx="6" cy="6" r=".5" fill="#111" opacity=".12"/></pattern></defs>
+<rect width="1200" height="78" fill="#dededb"/><rect width="1200" height="78" fill="url(#grain)" opacity=".45"/>
+<path d="M22 8H1178M22 70H1178" stroke="#111" stroke-width="2"/>
+<g fill="#080808" opacity=".95"><path d="M23 18C100 4 158 32 222 25C277 19 338 10 390 20C450 32 500 36 554 29L554 52C469 59 425 50 365 47C284 44 217 58 159 49C102 41 70 50 23 45Z"/><path d="M1177 18C1100 4 1042 32 978 25C923 19 862 10 810 20C750 32 700 36 646 29L646 52C731 59 775 50 835 47C916 44 983 58 1041 49C1098 41 1130 50 1177 45Z"/></g>
+<rect x="18" y="24" width="1164" height="30" fill="#080808"/>
+<text x="34" y="19" fill="#333" font-family="Arial,Helvetica,sans-serif" font-size="8" letter-spacing="3">IVX / VISUAL ARCHIVE</text>
+<text x="32" y="43" fill="#f0f0ed" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="2">IMAGE / MOTION / FORM</text>
+<text x="600" y="43" text-anchor="middle" fill="#c4c4c0" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="2">CREATIVE WORK MEETS TECHNICAL CRAFT</text>
+<text x="1168" y="43" text-anchor="end" fill="#f0f0ed" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="2">64R3AL</text>
+<text x="1167" y="65" text-anchor="end" fill="#333" font-family="Arial,Helvetica,sans-serif" font-size="8" letter-spacing="3">SELECTED PRACTICE / 001</text>
+</svg>
