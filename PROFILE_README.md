@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-editorial-banner.svg" alt="64R3AL / IVX — monochrome editorial identity with paper grain, bold Swiss typography and a high-contrast macro illustration." />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-banner.svg" alt="64R3AL / IVX — animated monochrome identity with bold editorial typography, technical orbit rings, a scanning light, and a four-stage workflow rail." />
 
 </div>
 
@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-editorial-divider.svg" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-divider.svg" alt="" />
 
 </div>
 
@@ -61,6 +61,51 @@ I care about the whole process: the idea, the visual direction, the technical wo
 <strong>EDIT</strong> &nbsp; / &nbsp; <strong>COMPOSITE</strong> &nbsp; / &nbsp; <strong>BUILD</strong> &nbsp; / &nbsp; <strong>REFINE</strong>
 
 </p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<sub>01 / VISUAL STORYTELLING</sub>
+
+### Edit & Motion
+
+Pacing, sound, kinetic typography, captions, transitions, compositing, and delivery-ready finishes.
+
+</td>
+<td width="50%" valign="top">
+
+<sub>02 / 3D & VFX</sub>
+
+### Build the Frame
+
+CGI, look development, lighting, procedural experiments, simulation, and image integration.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<sub>03 / DESIGN SYSTEMS</sub>
+
+### Design the Experience
+
+Art direction, hierarchy, responsive interfaces, bilingual layouts, and details that make products easier to use.
+
+</td>
+<td width="50%" valign="top">
+
+<sub>04 / CREATIVE SOFTWARE</sub>
+
+### Make Tools Useful
+
+Extensions, desktop utilities, web tools, automation, integrations, and workflows built around real tasks.
+
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>ONE PRACTICE / FOUR OUTPUTS / VISUAL CRAFT MEETS TECHNICAL BUILDING</sub></p>
 
 <a id="selected-work"></a>
 
@@ -149,7 +194,7 @@ A focused selection of public projects. The images are original editorial projec
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-editorial-divider.svg" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-divider.svg" alt="" />
 
 </div>
 
@@ -184,7 +229,7 @@ UI design is not just how a screen looks. I care about how clearly people can un
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-editorial-divider.svg" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-divider.svg" alt="" />
 
 </div>
 
@@ -225,6 +270,22 @@ Tools vary by project. This list represents the broader working toolkit, not a c
 
 </p>
 
+**Selected creative stack**
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/After%20Effects-111111?style=for-the-badge&logo=adobeaftereffects&logoColor=eeeeeb" alt="Adobe After Effects" />
+<img src="https://img.shields.io/badge/Blender-111111?style=for-the-badge&logo=blender&logoColor=eeeeeb" alt="Blender" />
+<img src="https://img.shields.io/badge/DaVinci%20Resolve-111111?style=for-the-badge&logo=davinciresolve&logoColor=eeeeeb" alt="DaVinci Resolve" />
+<img src="https://img.shields.io/badge/Unreal%20Engine-111111?style=for-the-badge&logo=unrealengine&logoColor=eeeeeb" alt="Unreal Engine" />
+<img src="https://img.shields.io/badge/Houdini-111111?style=for-the-badge&logo=houdini&logoColor=eeeeeb" alt="Houdini" />
+<img src="https://img.shields.io/badge/Photoshop-111111?style=for-the-badge&logo=adobephotoshop&logoColor=eeeeeb" alt="Adobe Photoshop" />
+<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=eeeeeb" alt="React" />
+<img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=eeeeeb" alt="Supabase" />
+<img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=eeeeeb" alt="Vercel" />
+
+</p>
+
 **Languages**  
 TypeScript · JavaScript · Python · Lua · HTML · CSS · ExtendScript
 
@@ -248,7 +309,7 @@ I use code to build user-facing tools, connect services, automate repetitive tas
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-editorial-divider.svg" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-divider.svg" alt="" />
 
 </div>
 
@@ -281,7 +342,7 @@ I use code to build user-facing tools, connect services, automate repetitive tas
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-editorial-divider.svg" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-divider.svg" alt="" />
 
 </div>
 
@@ -301,7 +362,7 @@ My working principles are simple: **intent over decoration, clarity over clutter
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-editorial-divider.svg" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-divider.svg" alt="" />
 
 </div>
 
@@ -317,7 +378,7 @@ My working principles are simple: **intent over decoration, clarity over clutter
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-editorial-divider.svg" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-divider.svg" alt="" />
 
 </div>
 
@@ -339,6 +400,6 @@ For a project inquiry, include the goal, references, scope, delivery format, and
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-editorial-footer.svg" alt="Monochrome editorial closing artwork for IVX, with a translucent abstract sculpture and the statement Build with intent. Finish with care." />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-footer.svg" alt="Animated monochrome closing artwork for IVX, with rotating technical orbit rings and the statement Build with intent. Finish with care." />
 
 </div>
