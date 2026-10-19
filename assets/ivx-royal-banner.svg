@@ -5,7 +5,7 @@
   <pattern id="dots" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#111"/></pattern>
   <pattern id="fineDots" width="5" height="5" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r=".65" fill="#fff"/></pattern>
   <clipPath id="art"><rect x="780" y="88" width="560" height="365"/></clipPath>
-  <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f1f1ef"/><stop offset="1" stop-color="#d8d8d5"/></linearGradient>
+  <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f1f1f1"/><stop offset="1" stop-color="#d8d8d8"/></linearGradient>
 </defs>
 <rect width="1400" height="560" fill="url(#paper)"/>
 <rect x="28" y="28" width="1344" height="504" fill="none" stroke="#111" stroke-width="2"/>
@@ -26,8 +26,8 @@
   <rect x="780" y="88" width="560" height="365" fill="url(#fineDots)" opacity=".14"/>
   <path d="M780 88H1340V453H780Z" fill="none" stroke="#111" stroke-width="2"/>
   <!-- Original abstract, opposing sculptural forms: a study in tension and negative space. -->
-  <path d="M805 139C866 97 951 103 1011 132C1061 156 1093 189 1146 193C1197 197 1263 165 1326 137C1301 180 1269 216 1221 232C1178 247 1143 237 1110 218C1070 194 1039 180 1003 183C956 187 927 218 886 226C844 233 814 202 805 139Z" fill="#efefed"/>
-  <path d="M805 401C866 443 951 437 1011 408C1061 384 1093 351 1146 347C1197 343 1263 375 1326 403C1301 360 1269 324 1221 308C1178 293 1143 303 1110 322C1070 346 1039 360 1003 357C956 353 927 322 886 314C844 307 814 338 805 401Z" fill="#efefed"/>
+  <path d="M805 139C866 97 951 103 1011 132C1061 156 1093 189 1146 193C1197 197 1263 165 1326 137C1301 180 1269 216 1221 232C1178 247 1143 237 1110 218C1070 194 1039 180 1003 183C956 187 927 218 886 226C844 233 814 202 805 139Z" fill="#efefef"/>
+  <path d="M805 401C866 443 951 437 1011 408C1061 384 1093 351 1146 347C1197 343 1263 375 1326 403C1301 360 1269 324 1221 308C1178 293 1143 303 1110 322C1070 346 1039 360 1003 357C956 353 927 322 886 314C844 307 814 338 805 401Z" fill="#efefef"/>
   <!-- Cut-in teeth create an unsettling, mirrored jaw-like rhythm without depicting a literal animal. -->
   <path d="M1012 183L1033 221L1048 188L1068 230L1087 201L1108 241L1128 215L1147 245L1165 229L1183 244L1204 233L1220 239L1239 225L1262 222L1284 206L1307 191L1281 235L1247 260L1207 272L1168 269L1132 258L1097 241L1063 223L1038 213Z" fill="#090909"/>
   <path d="M1012 357L1033 319L1048 352L1068 310L1087 339L1108 299L1128 325L1147 295L1165 311L1183 296L1204 307L1220 301L1239 315L1262 318L1284 334L1307 349L1281 305L1247 280L1207 268L1168 271L1132 282L1097 299L1063 317L1038 327Z" fill="#090909"/>
@@ -38,7 +38,7 @@
   <text x="1310" y="429" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="2" fill="#222">BLACK / WHITE / SPACE</text>
 </g>
 <rect x="58" y="466" width="1284" height="45" fill="#080808"/>
-<text x="76" y="493" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="3" fill="#f0f0ee">IVX — HOUSE OF IVX</text>
-<text x="700" y="493" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2" fill="#f0f0ee">VISUALS ARE THE LANGUAGE</text>
-<text x="1322" y="493" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="3" fill="#f0f0ee">/ 01</text>
+<text x="76" y="493" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="3" fill="#f0f0f0">IVX — HOUSE OF IVX</text>
+<text x="700" y="493" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2" fill="#f0f0f0">VISUALS ARE THE LANGUAGE</text>
+<text x="1322" y="493" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="3" fill="#f0f0f0">/ 01</text>
 </svg>
