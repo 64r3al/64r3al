@@ -26,10 +26,19 @@
 
 <a href="#practice">01 / PRACTICE</a> &nbsp; / &nbsp;
 <a href="#selected-work">02 / SELECTED WORK</a> &nbsp; / &nbsp;
-<a href="#tool-index">03 / TOOL INDEX</a> &nbsp; / &nbsp;
-<a href="#development">04 / DEVELOPMENT</a> &nbsp; / &nbsp;
-<a href="#process">05 / PROCESS</a> &nbsp; / &nbsp;
-<a href="#contact">06 / CONTACT</a>
+<a href="#ui-ux">03 / UI & UX</a> &nbsp; / &nbsp;
+<a href="#tool-index">04 / TOOL INDEX</a> &nbsp; / &nbsp;
+<a href="#development">05 / DEVELOPMENT</a>
+
+</p>
+
+<p align="center">
+
+<a href="#languages">06 / LANGUAGES</a> &nbsp; / &nbsp;
+<a href="#ledger">07 / THE LEDGER</a> &nbsp; / &nbsp;
+<a href="#process">08 / PROCESS</a> &nbsp; / &nbsp;
+<a href="#in-progress">09 / IN PROGRESS</a> &nbsp; / &nbsp;
+<a href="#contact">10 / CONTACT</a>
 
 </p>
 
@@ -144,9 +153,44 @@ A focused selection of public projects. The images are original editorial projec
 
 </div>
 
+<a id="ui-ux"></a>
+
+## 03 / UI / UX & DIGITAL EXPERIENCES
+
+UI design is not just how a screen looks. I care about how clearly people can understand it, navigate it, recover from errors, and finish the task they came to do.
+
+| DESIGN AREA | WHAT I FOCUS ON |
+|---|---|
+| **INTERFACE DESIGN** | Visual hierarchy, typography, spacing, contrast, consistency, clear labels, meaningful states, and restrained decoration |
+| **USER EXPERIENCE** | Navigation, information structure, task flow, feedback, empty/error states, and reducing unnecessary steps |
+| **RESPONSIVE UI** | Layouts that adapt to desktop and mobile widths without clipped text, broken controls, or awkward spacing |
+| **LOCALIZATION** | Language-aware copy, text expansion, Arabic right-to-left layout, direction-sensitive alignment, and avoiding mixed-language UI |
+| **ACCESSIBILITY** | Legible contrast, useful image descriptions, keyboard-friendly patterns where supported, reduced-motion preferences, and clear focus/feedback states |
+| **VISUAL SYSTEMS** | Reusable components, consistent buttons and panels, spacing rules, icon use, and coherent light/dark or monochrome visual treatment |
+
+**UI / design toolkit:** Framer · Photoshop · Illustrator · PureRef · HTML / CSS · React · Tailwind CSS
+
+### Where this shows up
+
+- **Pro Caption AE:** a creative panel designed around transcription, caption styling, animation controls, and an editable After Effects workflow.
+- **IVX Clean:** a Windows utility project with UI reference designs, explicit safety states, review-before-action workflows, and cautious handling of destructive actions.
+- **NOOR:** a responsive English/Arabic information website with right-to-left support and a searchable source archive.
+
+<p align="center">
+
+<strong>STRUCTURE</strong> &nbsp; / &nbsp; <strong>HIERARCHY</strong> &nbsp; / &nbsp; <strong>STATES</strong> &nbsp; / &nbsp; <strong>RESPONSIVE LAYOUT</strong> &nbsp; / &nbsp; <strong>POLISH</strong>
+
+</p>
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-editorial-divider.svg" alt="" />
+
+</div>
+
 <a id="tool-index"></a>
 
-## 03 / THE TOOL INDEX
+## 04 / THE TOOL INDEX
 
 <div align="center">
 
@@ -167,7 +211,7 @@ Tools vary by project. This list represents the broader working toolkit, not a c
 
 <a id="development"></a>
 
-## 04 / CREATIVE DEVELOPMENT
+## 05 / CREATIVE DEVELOPMENT
 
 **Languages**  
 TypeScript · JavaScript · Python · Lua · HTML · CSS · ExtendScript
@@ -180,9 +224,52 @@ Groq Whisper API · Gemini API · Discord API · REST APIs · Supabase · Vercel
 
 I use code to build user-facing tools, connect services, automate repetitive tasks, and bring design ideas into functioning interfaces.
 
+<a id="languages"></a>
+
+## 06 / HUMAN LANGUAGES
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=64r3al&style=flat-square&color=111111&label=PROFILE+VIEWS" alt="Public GitHub profile-view counter" />
+
+</p>
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-editorial-divider.svg" alt="" />
+
+</div>
+
+<a id="ledger"></a>
+
+## 07 / THE LEDGER — GITHUB ACTIVITY
+
+<div align="center">
+
+<img height="175" width="49%" src="https://github-readme-stats.vercel.app/api?username=64r3al&show_icons=true&include_all_commits=true&hide_border=true&bg_color=eeeeeb&title_color=111111&icon_color=111111&text_color=333333" alt="GitHub statistics for the public repositories of 64r3al." />
+<img height="175" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=64r3al&layout=compact&langs_count=8&hide_border=true&bg_color=eeeeeb&title_color=111111&text_color=333333" alt="Most-used programming languages by code size across public, non-forked repositories." />
+
+<br/><br/>
+
+<img width="80%" src="https://streak-stats.demolab.com/?user=64r3al&hide_border=true&background=eeeeeb&ring=111111&fire=555555&currStreakLabel=111111&currStreakNum=111111&sideLabels=333333&sideNums=111111&dates=555555&stroke=aaaaaa" alt="GitHub contribution streak, including current and longest streaks." />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=64r3al&bg_color=eeeeeb&color=111111&line=555555&point=111111&area=true&hide_border=true" alt="GitHub contribution activity graph in the IVX monochrome theme." />
+
+</div>
+
+<sub>These cards are generated by third-party services and may occasionally be unavailable. The top-languages card estimates the distribution of code size in public, non-forked repositories; it is not a measurement of time spent or personal proficiency, and does not include private repositories or contributions made to other people's repositories.</sub>
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-editorial-divider.svg" alt="" />
+
+</div>
+
 <a id="process"></a>
 
-## 05 / HOW I WORK
+## 08 / HOW I WORK
 
 **01 — Understand the intent.** Define the goal, audience, visual references, constraints, and delivery format.
 
@@ -200,9 +287,25 @@ My working principles are simple: **intent over decoration, clarity over clutter
 
 </div>
 
+<a id="in-progress"></a>
+
+## 09 / CURRENT FOCUS
+
+- **Stronger imagery:** lighting, look development, atmosphere, composition, and visual storytelling.
+- **Sharper motion:** timing, kinetic typography, transitions, and deliberate visual rhythm.
+- **More convincing worlds:** procedural environments, CGI, simulation, and compositing.
+- **Smarter creative workflows:** tools that reduce repetition while preserving control and craft.
+- **Better interfaces:** clearer navigation, responsive layouts, multilingual behavior, and consistent design systems.
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-editorial-divider.svg" alt="" />
+
+</div>
+
 <a id="contact"></a>
 
-## 06 / CONTACT & LANGUAGES
+## 10 / CONTACT
 
 **For collaborations:** video editing, motion graphics, VFX/compositing, 3D/CGI, graphic design, creative tools, workflow automation, and web interfaces.
 
