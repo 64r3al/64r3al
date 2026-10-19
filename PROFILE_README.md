@@ -1,27 +1,47 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-royal-banner.svg" alt="IVX — visual storytelling, image-making and creative technology" />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-dark-legacy-banner.svg" alt="64r3al / IVX — The Dark Legacy. A royal chess-inspired graphite, silver, crimson and sapphire creative identity." />
 
 <br/>
 
-### VIDEO EDITING · VFX / COMPOSITING · 3D / CGI · MOTION DESIGN · CREATIVE SOFTWARE
-
-*Building visuals with intent — and tools that make good ideas usable.*
-
-<a href="https://github.com/64r3al?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-EXPLORE-171717?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
-<a href="mailto:ivxrxfx@gmail.com"><img src="https://img.shields.io/badge/CONTACT-STUDIO-171717?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact IVX" /></a>
+<a href="https://github.com/64r3al?tab=repositories"><img src="https://img.shields.io/badge/01-PROJECT%20ARCHIVE-11151d?style=for-the-badge&labelColor=8e1b30&color=11151d" alt="Explore the project archive" /></a>
+<a href="mailto:ivxrxfx@gmail.com"><img src="https://img.shields.io/badge/02-STUDIO%20CONTACT-11151d?style=for-the-badge&labelColor=315a9d&color=11151d" alt="Contact the studio" /></a>
+<a href="https://github.com/64r3al/IVX"><img src="https://img.shields.io/badge/03-HOUSE%20OF%20IVX-11151d?style=for-the-badge&labelColor=626c7c&color=11151d" alt="House of IVX repository" /></a>
 
 </div>
 
----
+<div align="center">
 
-## About
+<img src="https://img.shields.io/badge/VISUAL%20CRAFT-EDIT%20%2F%20VFX%20%2F%20CGI-11151d?style=flat-square&labelColor=8e1b30" alt="Video editing, VFX and CGI" />
+<img src="https://img.shields.io/badge/CREATIVE%20TECH-WEB%20%2F%20TOOLS%20%2F%20AUTOMATION-11151d?style=flat-square&labelColor=315a9d" alt="Creative technology, web and automation" />
+
+</div>
+
+<div align="center">
+
+<a href="#about">01 / MINDSET</a> &nbsp; ◈ &nbsp;
+<a href="#selected-projects">02 / PROJECTS</a> &nbsp; ◈ &nbsp;
+<a href="#tool-armory">03 / TOOL ARMORY</a> &nbsp; ◈ &nbsp;
+<a href="#creative-development">04 / DEVELOPMENT</a> &nbsp; ◈ &nbsp;
+<a href="#collaborations">05 / CONTACT</a>
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-dark-legacy-divider.svg" alt="" />
+
+</div>
+
+<a id="about"></a>
+
+## 01 / THE MINDSET
 
 I'm an independent, self-taught creator working across **visual storytelling and creative technology**. My work moves between editing, VFX, 3D/CGI, motion design, graphic design, and building software for practical problems.
 
 I like the full process: shaping the idea, finding the right workflow, refining the details, and delivering something that feels finished. Some projects become visuals; others become extensions, desktop utilities, websites, or interactive experiences.
 
-## Two sides of my work
+## 02 / TWO SIDES OF THE WORK
 
 | **CREATIVE / VISUAL** | **SOFTWARE / INTERACTIVE** |
 |:--|:--|
@@ -31,83 +51,137 @@ I like the full process: shaping the idea, finding the right workflow, refining 
 | Motion graphics and animation | Automation, APIs and integrations |
 | Graphic design and visual direction | Accessibility, localization and UI details |
 
-## Featured projects
+<a id="selected-projects"></a>
 
-### [Pro Caption AE](https://github.com/64r3al/Pro-Caption-AE) — Creative software
+## 03 / SELECTED PROJECTS
 
-An Adobe After Effects extension for word-synced transcription and animated captions.
+A focused selection across creative software, desktop utilities, multilingual web, and interactive systems. The covers are editorial project artwork; open each repository for source, documentation, and releases.
 
-- **66 style presets** and **15 motion types**
-- Word-level timing, caption styling, and editable native After Effects text layers
-- Built with TypeScript, React, Tailwind CSS, CEP / ExtendScript, Groq Whisper, and FFmpeg
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[Source code](https://github.com/64r3al/Pro-Caption-AE) · [Latest release](https://github.com/64r3al/Pro-Caption-AE/releases/latest)
+<a href="https://github.com/64r3al/Pro-Caption-AE"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/project-pro-caption.svg" alt="Pro Caption AE editorial project cover" /></a>
 
-### [IVX Clean](https://github.com/64r3al/IVX-Clean) — Windows utility
+<h3>01 / Pro Caption AE</h3>
+<p><strong>CREATIVE SOFTWARE / AFTER EFFECTS</strong></p>
+<p>An After Effects extension for word-synced transcription and animated captions, with 66 style presets, 15 motion types, and editable native text layers.</p>
+<p><a href="https://github.com/64r3al/Pro-Caption-AE">SOURCE ↗</a> &nbsp;·&nbsp; <a href="https://github.com/64r3al/Pro-Caption-AE/releases/latest">LATEST RELEASE ↗</a></p>
 
-A free, open-source Windows cleaner designed around safety-first rules: explicit cleanup allowlists, read-only scans, review before deletion, and quarantine/restore options for caution items.
+</td>
+<td width="50%" valign="top">
 
-[Source code](https://github.com/64r3al/IVX-Clean) · [Releases](https://github.com/64r3al/IVX-Clean/releases)
+<a href="https://github.com/64r3al/IVX-Clean"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/project-ivx-clean.svg" alt="IVX Clean editorial project cover" /></a>
 
-### [NOOR — A Light for Every Child](https://github.com/64r3al/GAZA) — Multilingual web project
+<h3>02 / IVX Clean</h3>
+<p><strong>WINDOWS UTILITY / OPEN SOURCE</strong></p>
+<p>A safety-first Windows cleaner with explicit allowlists, read-only scans, review before deletion, and quarantine/restore options for caution items.</p>
+<p><a href="https://github.com/64r3al/IVX-Clean">SOURCE ↗</a> &nbsp;·&nbsp; <a href="https://github.com/64r3al/IVX-Clean/releases">RELEASES ↗</a></p>
 
-An independent humanitarian information project with a source archive, responsive layouts, Arabic right-to-left support, and links to official resources. Built with accessibility and source transparency in mind.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-[Open website](https://gaza-zeta.vercel.app/) · [Source code](https://github.com/64r3al/GAZA)
+<a href="https://github.com/64r3al/GAZA"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/project-noor.svg" alt="NOOR humanitarian information website project cover" /></a>
 
-### [Map Music Player](https://github.com/64r3al/Map-Music-Player) — FiveM / NUI
+<h3>03 / NOOR — A Light for Every Child</h3>
+<p><strong>MULTILINGUAL WEB / INFORMATION DESIGN</strong></p>
+<p>An independent humanitarian information project with an evidence archive, responsive layouts, Arabic right-to-left support, and links to official resources.</p>
+<p><a href="https://gaza-zeta.vercel.app/">LIVE SITE ↗</a> &nbsp;·&nbsp; <a href="https://github.com/64r3al/GAZA">SOURCE ↗</a></p>
 
-An in-game music player experiment with playback controls, volume adjustment, and a web-based interface integrated into FiveM.
+</td>
+<td width="50%" valign="top">
 
-[Source code](https://github.com/64r3al/Map-Music-Player)
+<a href="https://github.com/64r3al/Map-Music-Player"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/project-map-music.svg" alt="Map Music Player editorial project cover" /></a>
 
-### [Discord Role / Nickname Manager](https://github.com/64r3al/Discord-Role-Nickname) — Community automation
+<h3>04 / Map Music Player</h3>
+<p><strong>FIVEM / NUI / INTERACTION</strong></p>
+<p>An in-game music player concept with playback controls, volume adjustment, and a web-based interface integrated into FiveM.</p>
+<p><a href="https://github.com/64r3al/Map-Music-Player">SOURCE ↗</a></p>
 
-A Discord bot project focused on persistent member data, role/nickname tracking, restoration workflows, permission checks, and audit logging.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-[Source code](https://github.com/64r3al/Discord-Role-Nickname)
+<a href="https://github.com/64r3al/Discord-Role-Nickname"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/project-discord-manager.svg" alt="Discord role and nickname manager project cover" /></a>
 
-### More experiments
+<h3>05 / Discord Role / Nickname Manager</h3>
+<p><strong>COMMUNITY AUTOMATION</strong></p>
+<p>A bot project focused on persistent member records, role and nickname tracking, restoration workflows, permission checks, and audit logging.</p>
+<p><a href="https://github.com/64r3al/Discord-Role-Nickname">SOURCE ↗</a></p>
 
-- [AURA Capital Engine](https://github.com/64r3al/AURA-Capital-Engine) — a deterministic cash-flow allocation and forecasting concept.
-- [Quizziy-test](https://github.com/64r3al/Quizziy-test) · [ExamFlow](https://github.com/64r3al/ExamFlow) — AI-assisted quiz and assessment app experiments.
-- [Browse every public repository](https://github.com/64r3al?tab=repositories)
+</td>
+<td width="50%" valign="top">
 
----
+<a href="https://github.com/64r3al/AURA-Capital-Engine"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/project-aura.svg" alt="AURA Capital Engine editorial project cover" /></a>
 
-## Creative toolkit
+<h3>06 / AURA Capital Engine</h3>
+<p><strong>SYSTEM DESIGN / FINANCE CONCEPT</strong></p>
+<p>A deterministic cash-flow allocation and forecasting experiment that explores turning a revenue input into a structured plan.</p>
+<p><a href="https://github.com/64r3al/AURA-Capital-Engine">SOURCE ↗</a></p>
 
-**Editing & post-production**  
-After Effects · Premiere Pro · DaVinci Resolve · Media Encoder · CapCut · FFmpeg
+</td>
+</tr>
+</table>
 
-**3D, CGI & VFX**  
-Blender · Houdini · Unreal Engine · Marvelous Designer · Quixel Bridge · Cinema 4D · Nuke · EmberGen · TouchDesigner · SynthEyes · Substance 3D · ComfyUI
+<p align="center">
+<a href="https://github.com/64r3al/Quizziy-test">QUIZZIY</a> &nbsp; / &nbsp;
+<a href="https://github.com/64r3al/ExamFlow">EXAMFLOW</a> &nbsp; / &nbsp;
+<a href="https://github.com/64r3al/remix-examflow-studio">EXAMFLOW STUDIO</a> &nbsp; / &nbsp;
+<a href="https://github.com/64r3al/graphicdesign">GRAPHIC DESIGN</a> &nbsp; / &nbsp;
+<a href="https://github.com/64r3al?tab=repositories">ALL REPOSITORIES ↗</a>
+</p>
 
-**Design & visual development**  
-Photoshop · Illustrator · Krita · Clip Studio Paint · PureRef · Framer
+<a id="tool-armory"></a>
 
-**Audio & interactive work**  
-FL Studio · FiveM NUI · Discord API
+## 04 / THE TOOL ARMORY
 
-## Coding & creative development
+<div align="center">
 
-<img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-<img src="https://img.shields.io/badge/Lua-111111?style=flat-square&logo=lua&logoColor=2C2D72" alt="Lua" />
-<img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
-<img src="https://img.shields.io/badge/ExtendScript-111111?style=flat-square&logo=adobe&logoColor=FF0000" alt="ExtendScript" />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-dark-legacy-toolkit.svg" alt="Dark Legacy themed index of creative production, 3D and VFX, art direction, and development tools." />
+
+</div>
+
+The toolkit is broad because the work crosses disciplines. I choose tools based on the actual requirements of each project; this index describes the wider working ecosystem, not a claim that every application is used at the same proficiency level.
+
+| WORKFLOW | SELECTED TOOLS |
+|---|---|
+| **Edit / finish** | After Effects · Premiere Pro · DaVinci Resolve · Media Encoder · CapCut · FFmpeg |
+| **3D / CGI / VFX** | Blender · Houdini · Unreal Engine · Marvelous Designer · Quixel Bridge · Cinema 4D · Nuke · EmberGen · TouchDesigner · SynthEyes · Substance 3D · ComfyUI |
+| **Design / art direction** | Photoshop · Illustrator · Krita · Clip Studio Paint · PureRef · Framer |
+| **Creative development** | TypeScript · JavaScript · Python · Lua · HTML / CSS · React · Tailwind CSS · Vite · ExtendScript |
+| **Platforms / integrations** | Git · GitHub Actions · REST APIs · Groq Whisper · Gemini API · Discord API · Supabase · Vercel · GitHub Pages |
+| **Audio / exploration** | FL Studio · Sora · Higgsfield · Weavy · Nano Banana |
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-dark-legacy-divider.svg" alt="" />
+
+</div>
+
+<a id="creative-development"></a>
+
+## 05 / CREATIVE DEVELOPMENT
+
+<img src="https://img.shields.io/badge/TypeScript-171b25?style=for-the-badge&logo=typescript&logoColor=91b6ff" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-171b25?style=for-the-badge&logo=javascript&logoColor=d8dde6" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-171b25?style=for-the-badge&logo=python&logoColor=91b6ff" alt="Python" />
+<img src="https://img.shields.io/badge/Lua-171b25?style=for-the-badge&logo=lua&logoColor=c3cad6" alt="Lua" />
+<img src="https://img.shields.io/badge/HTML5-171b25?style=for-the-badge&logo=html5&logoColor=c3cad6" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-171b25?style=for-the-badge&logo=css3&logoColor=91b6ff" alt="CSS3" />
+<img src="https://img.shields.io/badge/ExtendScript-171b25?style=for-the-badge&logo=adobe&logoColor=ed526a" alt="ExtendScript" />
 
 **Frameworks & workflow:** React · Tailwind CSS · Vite · CEP / ExtendScript · FFmpeg · Git / GitHub · REST APIs
 
 I use code both to build products and to improve creative workflows—especially where visuals, automation, and user experience meet.
 
-## Human languages
+## 06 / HUMAN LANGUAGES
 
 **Arabic** · **English** · **Russian**
 
-## How I approach a project
+## 07 / THE PROCESS
 
 1. **Understand the intent** — goal, audience, references, constraints, and delivery format.
 2. **Choose the right workflow** — visual craft and technical choices should serve the result.
@@ -115,7 +189,7 @@ I use code both to build products and to improve creative workflows—especially
 4. **Deliver cleanly** — a useful final result, clear structure, and a straightforward handoff.
 
 
-## Creative disciplines — a closer look
+## 08 / CREATIVE DISCIPLINES
 
 | Area | What the work can involve |
 |---|---|
@@ -130,7 +204,7 @@ I use code both to build products and to improve creative workflows—especially
 
 These areas overlap by design: visual judgment helps with interface design, while a technical mindset helps make creative workflows more reliable and repeatable.
 
-## Software, apps & platforms
+## 09 / SOFTWARE & PLATFORMS
 
 ### Creative production
 
@@ -160,7 +234,7 @@ Tools are selected for the job at hand. Some are part of regular production, whi
 
 I use programming to build user-facing products, connect services, automate repetitive tasks, and bring design ideas into functioning interfaces. I am especially interested in the point where **creative applications, automation, and good user experience** meet.
 
-## Project highlights — what each one demonstrates
+## 10 / PROJECT NOTES
 
 <details>
 <summary><strong>Pro Caption AE</strong> — After Effects extension</summary>
@@ -266,7 +340,7 @@ A systems-design experiment that turns a revenue input into an allocation plan a
 
 </details>
 
-## How I build
+## 11 / HOW I BUILD
 
 ```text
 IDEA / BRIEF
@@ -286,7 +360,7 @@ DELIVERY + DOCUMENTATION
 
 The exact process depends on the project. A short edit may prioritize rhythm and visual clarity; a creative extension may need careful host-app integration; a website may require localization, accessibility checks, source verification, and responsive testing.
 
-## Principles I care about
+## 12 / PRINCIPLES
 
 - **Intent over decoration** — visual choices should support the message, not distract from it.
 - **Useful over complicated** — a tool or interface should make the intended job easier.
@@ -295,7 +369,7 @@ The exact process depends on the project. A short edit may prioritize rhythm and
 - **Craft plus systems thinking** — a good result should look right and work reliably.
 - **Finish the details** — spacing, timing, labels, edge quality, error states, documentation, and delivery all matter.
 
-## GitHub overview
+## 13 / GITHUB ACTIVITY
 
 <div align="center">
 
@@ -306,7 +380,9 @@ The exact process depends on the project. A short edit may prioritize rhythm and
 
 <sub>These cards are generated from GitHub repository data by a third-party service. Language percentages describe repository code, not overall ability or creative software skills, and the service may occasionally be unavailable.</sub>
 
-## Collaboration
+<a id="collaborations"></a>
+
+## 14 / COLLABORATIONS
 
 I'm interested in work and collaborations that connect one or more of these areas:
 
@@ -321,11 +397,15 @@ For project inquiries, include the goal, references, delivery format, scope, and
 **GitHub:** [github.com/64r3al](https://github.com/64r3al)  
 **Projects:** [Browse the repository archive](https://github.com/64r3al?tab=repositories)
 
----
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-dark-legacy-divider.svg" alt="" />
+
+</div>
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-colophon.svg" alt="IVX — Build with intent. Finish with care." />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-dark-legacy-footer.svg" alt="IVX — Build with intent. Finish with care." />
 
 <br/><br/>
 
