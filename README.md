@@ -89,8 +89,8 @@ A focused selection of public projects. The images are original editorial projec
 
 <h3>03 / NOOR — A Light for Every Child</h3>
 <p><strong>PUBLIC INFORMATION / WEB</strong></p>
-<p>An independent humanitarian information project with an English and Arabic interface, right-to-left support, a searchable source archive, and links to official resources.</p>
-<p><a href="https://gaza-zeta.vercel.app/">LIVE SITE ↗</a> &nbsp; / &nbsp; <a href="https://github.com/64r3al/GAZA">SOURCE ↗</a> &nbsp; / &nbsp; <a href="https://gaza-zeta.vercel.app/evidence-archive.html">SOURCE ARCHIVE ↗</a></p>
+<p>An independent humanitarian information project with an English and Arabic interface, right-to-left support, a source archive in the repository, and links to official resources.</p>
+<p><a href="https://gaza-zeta.vercel.app/">LIVE SITE ↗</a> &nbsp; / &nbsp; <a href="https://github.com/64r3al/GAZA">SOURCE ↗</a></p>
 
 </td>
 <td width="50%" valign="top">
