@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="720" viewBox="0 0 1400 720" role="img" aria-labelledby="title desc">
+<title id="title">IVX / 64R3AL — Image, Motion, Form</title>
+<desc id="desc">A monochrome editorial portfolio banner with Swiss typography, photocopy grain, halftone texture and an original macro insect-like form.</desc>
+<defs>
+ <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eeeeeb"/><stop offset="1" stop-color="#cdcdca"/></linearGradient>
+ <pattern id="dots" width="7" height="7" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#080808" opacity=".5"/></pattern>
+ <pattern id="fine" width="4" height="4" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".5" fill="#f2f2f0" opacity=".5"/></pattern>
+ <filter id="rough" x="-10%" y="-10%" width="120%" height="120%"><feTurbulence type="fractalNoise" baseFrequency=".8" numOctaves="2" seed="12" result="noise"/><feColorMatrix in="noise" type="saturate" values="0"/><feComponentTransfer><feFuncA type="table" tableValues="0 .16"/></feComponentTransfer><feBlend in="SourceGraphic" mode="multiply"/></filter>
+ <clipPath id="heroClip"><rect x="34" y="190" width="1332" height="405"/></clipPath>
+</defs>
+<rect width="1400" height="720" fill="url(#paper)"/>
+<rect width="1400" height="720" fill="url(#dots)" opacity=".10"/>
+<path d="M36 34H1364" stroke="#090909" stroke-width="4"/>
+<path d="M736 62H1364" stroke="#090909" stroke-width="11"/>
+<path d="M736 62H1200" stroke="#888" stroke-width="8"/>
+<text x="736" y="98" fill="#090909" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" letter-spacing="9">I V X  /  6 4 R 3 A L</text>
+<text x="1364" y="98" text-anchor="end" fill="#333" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="4">INDEPENDENT CREATIVE PRACTICE</text>
+<text x="34" y="135" fill="#080808" font-family="Arial,Helvetica,sans-serif" font-size="71" font-weight="900" letter-spacing="7">IMAGE</text>
+<text x="34" y="190" fill="#080808" font-family="Arial,Helvetica,sans-serif" font-size="71" font-weight="900" letter-spacing="7">/ MOTION / FORM</text>
+<text x="752" y="134" fill="#111" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="3.5">VIDEO EDITING</text>
+<text x="752" y="158" fill="#111" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="3.5">VFX / 3D / CGI</text>
+<text x="752" y="182" fill="#111" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="3.5">DESIGN / CREATIVE SOFTWARE</text>
+<path d="M34 204H1366" stroke="#080808" stroke-width="4"/>
+<g clip-path="url(#heroClip)">
+ <rect x="34" y="208" width="1332" height="387" fill="#d4d4d1"/>
+ <rect x="34" y="208" width="1332" height="387" fill="url(#dots)" opacity=".16"/>
+ <!-- Original macro creature study: segmented shell, antennae and hooked legs, made as a high contrast print illustration. -->
+ <g transform="translate(110 180)" filter="url(#rough)">
+   <path d="M230 173C240 99 315 43 396 68C452 85 475 129 513 150C550 171 606 153 665 163C735 175 774 231 789 295C801 342 777 385 744 419C711 451 665 457 624 445C583 433 560 403 520 396C477 389 444 420 401 430C351 442 292 427 263 390C232 350 215 230 230 173Z" fill="#050505"/>
+   <path d="M304 150C341 102 392 102 431 139C460 166 469 210 457 246C442 295 408 337 363 344C321 350 282 321 268 282C253 240 268 190 304 150Z" fill="#171717"/>
+   <path d="M463 145C510 125 567 142 597 182C618 212 631 251 620 285C609 320 576 342 542 337C503 330 481 291 478 254C475 218 451 177 463 145Z" fill="#292929"/>
+   <path d="M617 205C671 185 718 224 733 277C745 319 729 357 703 373C681 386 654 371 648 346C642 321 666 302 658 280C650 256 618 244 617 205Z" fill="#050505"/>
+   <path d="M337 132C304 73 263 23 204 6C162 -7 112 10 82 42" fill="none" stroke="#050505" stroke-width="36" stroke-linecap="round"/>
+   <path d="M378 125C401 72 429 27 474 4C500 -9 525 5 536 28" fill="none" stroke="#050505" stroke-width="29" stroke-linecap="round"/>
+   <path d="M273 245C206 232 146 211 94 181C66 165 43 164 17 176" fill="none" stroke="#050505" stroke-width="31" stroke-linecap="round"/>
+   <path d="M294 320C230 335 181 370 144 421L111 457" fill="none" stroke="#050505" stroke-width="32" stroke-linecap="round"/>
+   <path d="M454 350C450 405 469 449 512 482L544 507" fill="none" stroke="#050505" stroke-width="27" stroke-linecap="round"/>
+   <path d="M622 345C650 391 696 419 753 434L798 421" fill="none" stroke="#050505" stroke-width="29" stroke-linecap="round"/>
+   <path d="M631 214C679 183 715 157 751 127C774 108 804 110 824 132" fill="none" stroke="#050505" stroke-width="26" stroke-linecap="round"/>
+   <path d="M820 132L844 106L849 147L824 132L861 169" fill="none" stroke="#050505" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+   <path d="M79 43L59 21L43 47L69 62L33 77" fill="none" stroke="#050505" stroke-width="10" stroke-linecap="round"/>
+   <path d="M274 174C317 150 362 153 388 185C411 213 399 252 366 275C332 298 294 280 276 253" fill="none" stroke="#7a7a7a" stroke-width="8" stroke-linecap="round" opacity=".6"/>
+   <path d="M497 172C537 168 574 198 585 231C593 255 584 277 570 290" fill="none" stroke="#929292" stroke-width="6" stroke-linecap="round" opacity=".65"/>
+   <path d="M264 198C310 166 362 170 390 207C414 240 387 282 353 294C310 310 273 277 264 240Z" fill="url(#fine)" opacity=".8"/>
+   <path d="M467 162C507 144 555 166 577 202C597 236 586 275 561 296C539 314 506 300 494 273C481 245 491 213 467 194Z" fill="url(#fine)" opacity=".7"/>
+   <path d="M634 251C654 238 680 254 686 276C692 298 679 321 659 321C642 321 630 304 633 285Z" fill="#080808" stroke="#8c8c8c" stroke-width="4"/>
+   <circle cx="664" cy="278" r="11" fill="#e5e5e2"/>
+   <circle cx="667" cy="276" r="4" fill="#111"/>
+   <path d="M254 146L288 112L319 101L341 121M425 127L458 107L487 112L506 137" fill="none" stroke="#d1d1ce" stroke-width="3" opacity=".7"/>
+   <path d="M321 346L347 383L370 387L398 364M531 337L555 359L579 356L598 336" fill="none" stroke="#bcbcb9" stroke-width="5" opacity=".6"/>
+   <rect x="40" y="0" width="845" height="525" fill="url(#fine)" opacity=".24"/>
+ </g>
+ <!-- halftone speckling in empty areas -->
+ <g fill="#111" opacity=".38">
+  <circle cx="74" cy="232" r="2"/><circle cx="97" cy="258" r="1.2"/><circle cx="124" cy="220" r="1.4"/><circle cx="163" cy="249" r="2.5"/><circle cx="184" cy="230" r="1.2"/>
+  <circle cx="1140" cy="238" r="2"/><circle cx="1171" cy="261" r="1.5"/><circle cx="1201" cy="226" r="2.6"/><circle cx="1234" cy="248" r="1"/><circle cx="1285" cy="224" r="2"/>
+  <circle cx="1143" cy="536" r="2.4"/><circle cx="1195" cy="553" r="1.5"/><circle cx="1254" cy="532" r="2.1"/><circle cx="1321" cy="559" r="1.3"/><circle cx="92" cy="553" r="1.5"/>
+  <circle cx="145" cy="576" r="2"/><circle cx="211" cy="557" r="1"/><circle cx="298" cy="571" r="2.4"/><circle cx="375" cy="560" r="1.2"/>
+ </g>
+</g>
+<path d="M34 604H1366" stroke="#080808" stroke-width="4"/>
+<text x="38" y="632" fill="#5f5f5c" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="1.3">CREATIVE PRACTICE</text>
+<text x="38" y="655" fill="#111" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="1.8">VIDEO / VFX / CGI / MOTION</text>
+<text x="360" y="632" fill="#5f5f5c" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="1.3">TECHNICAL PRACTICE</text>
+<text x="360" y="655" fill="#111" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="1.8">TOOLS / WEB / AUTOMATION</text>
+<text x="760" y="632" fill="#5f5f5c" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="1.3">WORKING PRINCIPLE</text>
+<text x="760" y="655" fill="#111" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="1.8">BUILD WITH INTENT / FINISH WITH CARE</text>
+<text x="1360" y="678" text-anchor="end" fill="#111" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="900" letter-spacing="2">/ IVX</text>
+<text x="38" y="692" fill="#777" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="2.2">MONOCHROME STUDY / 001</text>
+</svg>
