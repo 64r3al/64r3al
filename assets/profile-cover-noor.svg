@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="440" viewBox="0 0 960 440" role="img" aria-labelledby="title desc">
+<title id="title">IVX / 03 / MULTILINGUAL WEB</title><desc id="desc">A dark graphite project card with silver lettering, a precise vector motif and discreet crimson and sapphire accents, designed for the Dark Legacy portfolio.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#151922"/><stop offset="1" stop-color="#07090e"/></linearGradient><pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#94a0b2" stroke-opacity=".055"/></pattern><linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#c92b42"/><stop offset="1" stop-color="#4e7ed8"/></linearGradient></defs>
+<rect width="960" height="440" fill="url(#bg)"/><rect width="960" height="440" fill="url(#grid)"/>
+<rect x="20" y="20" width="920" height="400" fill="none" stroke="#6b7587" stroke-opacity=".6"/>
+<path d="M20 20H290" stroke="#c92b42" stroke-width="3"/><path d="M670 20H940" stroke="#4e7ed8" stroke-width="3"/>
+<text x="48" y="53" fill="#aeb7c7" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" letter-spacing="3">03 / MULTILINGUAL WEB</text>
+<text x="912" y="53" text-anchor="end" fill="#7d899c" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="2.4">HOUSE OF IVX</text>
+<path d="M48 75H912" stroke="#596477" stroke-opacity=".45"/>
+<text x="48" y="174" fill="#f1f4f8" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="900" letter-spacing="-0.8">NOOR</text>
+<text x="48" y="220" fill="#d3d9e4" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="800" letter-spacing="1.2">A LIGHT FOR EVERY CHILD</text>
+<path d="M48 246H590" stroke="#4d586b"/>
+<text x="48" y="280" fill="#9da8b9" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" letter-spacing="1.2">INFORMATION / SOURCES / ACCESSIBILITY</text>
+<rect x="48" y="318" width="542" height="2" fill="url(#acc)"/>
+<text x="48" y="349" fill="#d9dfe8" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="2.5">BUILD WITH INTENT.</text>
+<text x="48" y="370" fill="#7f8a9d" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="2.2">FINISH WITH CARE.</text>
+<g transform="translate(650 132)">
+    <rect x="0" y="0" width="250" height="220" rx="4" fill="#111721" stroke="#4d586a"/>
+    <circle cx="125" cy="78" r="37" fill="#1a2433" stroke="#4e7ed8" stroke-width="1.5"/>
+    <path d="M125 21V8M125 148V135M68 78H55M195 78H182M85 38L75 28M165 118L175 128M85 118L75 128M165 38L175 28" stroke="#c7d0df" stroke-width="2"/>
+    <path d="M125 41L132 66L158 67L138 83L145 108L125 93L105 108L112 83L92 67L118 66Z" fill="#e7ebf2"/>
+    <path d="M37 147Q81 126 125 151Q169 126 213 147V184Q169 164 125 187Q81 164 37 184Z" fill="#202938" stroke="#9ea9bb" stroke-width="1.5"/>
+    <path d="M125 151V187M49 158Q84 143 112 160M138 160Q166 143 201 158" stroke="#4e7ed8" stroke-width="1.5" fill="none"/>
+    <path d="M37 184Q81 164 125 187Q169 164 213 184" fill="none" stroke="#c92b42" stroke-width="2"/>
+   </g>
+<path d="M48 397H912" stroke="#596477" stroke-opacity=".45"/>
+<text x="48" y="412" fill="#778294" font-family="Arial,Helvetica,sans-serif" font-size="8" letter-spacing="2.3">BLACK / GRAPHITE / SILVER</text>
+<rect x="835" y="405" width="26" height="3" fill="#c92b42"/><rect x="867" y="405" width="26" height="3" fill="#4e7ed8"/>
+</svg>
