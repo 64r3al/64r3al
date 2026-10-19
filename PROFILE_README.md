@@ -138,11 +138,11 @@ A focused selection across creative software, desktop utilities, multilingual we
 </table>
 
 <p align="center">
-<a href="https://github.com/64r3al/Quizziy-test">QUIZZIY</a> &nbsp; / &nbsp;
-<a href="https://github.com/64r3al/ExamFlow">EXAMFLOW</a> &nbsp; / &nbsp;
-<a href="https://github.com/64r3al/remix-examflow-studio">EXAMFLOW STUDIO</a> &nbsp; / &nbsp;
-<a href="https://github.com/64r3al/graphicdesign">GRAPHIC DESIGN</a> &nbsp; / &nbsp;
-<a href="https://github.com/64r3al?tab=repositories">ALL REPOSITORIES ↗</a>
+<a href="https://github.com/64r3al/graphicdesign">GRAPHIC DESIGN ↗</a> &nbsp; / &nbsp;
+<a href="https://github.com/64r3al/github-achievement-lab">GITHUB ACHIEVEMENT LAB ↗</a> &nbsp; / &nbsp;
+<a href="https://github.com/64r3al?tab=repositories">ALL PUBLIC REPOSITORIES ↗</a>
+
+<p align="center"><sub>Additional quiz and assessment app experiments are private and are not linked here.</sub></p>
 </p>
 
 <a id="tool-index"></a>
