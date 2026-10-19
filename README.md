@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-banner.svg" alt="64R3AL / IVX — animated monochrome identity with bold editorial typography, technical orbit rings, a scanning light, and a four-stage workflow rail." />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-banner.gif" alt="64R3AL / IVX — looping animated monochrome banner with bold editorial typography, a moving technical-orbit marker, and a four-stage creative workflow rail." />
 
 </div>
 
@@ -400,6 +400,6 @@ For a project inquiry, include the goal, references, scope, delivery format, and
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-footer.svg" alt="Animated monochrome closing artwork for IVX, with rotating technical orbit rings and the statement Build with intent. Finish with care." />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-footer.svg" alt="Monochrome closing artwork for IVX, with a technical orbit and the statement Build with intent. Finish with care." />
 
 </div>
