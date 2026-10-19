@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="620" viewBox="0 0 1400 620" role="img" aria-labelledby="title desc">
+<title id="title">IVX — Visuals in Motion</title>
+<desc id="desc">A modern monochrome animated identity banner for 64R3AL / IVX, combining bold editorial typography, rotating technical rings, a scanning light, a subtle grid, and a four-stage workflow rail.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#18191b"/><stop offset=".55" stop-color="#101113"/><stop offset="1" stop-color="#242527"/></linearGradient>
+  <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fafaf8"/><stop offset="1" stop-color="#bdbdb9"/></linearGradient>
+  <radialGradient id="orb" cx=".34" cy=".24" r=".9"><stop stop-color="#777875"/><stop offset=".34" stop-color="#343536"/><stop offset="1" stop-color="#0a0a0b"/></radialGradient>
+  <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".75"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#f2f2ef" stroke-opacity=".065" stroke-width="1"/></pattern>
+  <pattern id="grain" width="9" height="9" patternUnits="userSpaceOnUse"><circle cx="1" cy="2" r=".5" fill="#fff" opacity=".18"/><circle cx="7" cy="6" r=".4" fill="#fff" opacity=".12"/></pattern>
+  <clipPath id="orbClip"><circle cx="1052" cy="270" r="164"/></clipPath>
+  <clipPath id="scanClip"><rect x="52" y="93" width="1296" height="345"/></clipPath>
+</defs>
+<rect width="1400" height="620" fill="url(#bg)"/>
+<rect width="1400" height="620" fill="url(#grid)"/>
+<rect width="1400" height="620" fill="url(#grain)" opacity=".28"/>
+<path d="M52 40H1348" stroke="#e9e9e6" stroke-opacity=".75" stroke-width="1.5"/>
+<text x="54" y="70" fill="#f4f4f1" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="7">64R3AL / IVX</text>
+<text x="1346" y="70" text-anchor="end" fill="#aaa" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="3.5">INDEPENDENT CREATIVE PRACTICE</text>
+<rect x="1127" y="54" width="9" height="9" rx="4.5" fill="#eeeeeb"><animate attributeName="opacity" values=".35;1;.35" dur="2.8s" repeatCount="indefinite"/></rect>
+<text x="1114" y="63" text-anchor="end" fill="#d7d7d3" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="2">VISUAL + SYSTEMS</text>
+<g fill="#f2f2ef" font-family="Arial,Helvetica,sans-serif" font-weight="900">
+  <text x="52" y="177" font-size="91" letter-spacing="-3">VISUALS</text>
+  <text x="48" y="269" font-size="91" letter-spacing="-4">IN MOTION.</text>
+</g>
+<path d="M55 294H758" stroke="#f2f2ef" stroke-width="2"/>
+<path d="M55 294H245" stroke="#858582" stroke-width="7"/>
+<text x="56" y="326" fill="#d0d0cc" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2.2">VIDEO EDITING / VFX / 3D / CGI / MOTION</text>
+<text x="56" y="350" fill="#999995" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2.3">DESIGN SYSTEMS / CREATIVE SOFTWARE / WEB TOOLS</text>
+<text x="56" y="397" fill="#f4f4f1" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="2.2">BUILD WITH INTENT.</text>
+<text x="56" y="418" fill="#999995" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="2.2">FINISH WITH CARE.</text>
+<!-- Technical orb: static shapes provide a fallback; the orbit and scanner add restrained motion. -->
+<circle cx="1052" cy="270" r="178" fill="none" stroke="#8d8d89" stroke-opacity=".45" stroke-width="1" stroke-dasharray="2 10"/>
+<circle cx="1052" cy="270" r="165" fill="url(#orb)" stroke="#f2f2ef" stroke-opacity=".72" stroke-width="1.4"/>
+<g transform="translate(1052 270)">
+  <g fill="none" stroke="#d8d8d4" stroke-opacity=".75" stroke-width="1.2">
+    <ellipse rx="148" ry="53" transform="rotate(24)"/>
+    <ellipse rx="148" ry="53" transform="rotate(-38)"/>
+    <ellipse rx="62" ry="148" transform="rotate(16)"/>
+    <ellipse rx="102" ry="148" transform="rotate(68)"/>
+  </g>
+  <g fill="none" stroke="#f0f0ed" stroke-opacity=".88" stroke-width="2">
+    <ellipse rx="139" ry="49" transform="rotate(0)"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/></ellipse>
+    <ellipse rx="139" ry="49" transform="rotate(55)"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="17s" repeatCount="indefinite"/></ellipse>
+  </g>
+  <circle r="86" fill="none" stroke="#f5f5f1" stroke-opacity=".35" stroke-width="1" stroke-dasharray="1 6"/>
+  <circle r="57" fill="none" stroke="#f5f5f1" stroke-opacity=".85" stroke-width="1.5"/>
+  <path d="M-57 0H57M0 -57V57" stroke="#d6d6d1" stroke-opacity=".55" stroke-width="1"/>
+  <circle r="16" fill="#f1f1ee"><animate attributeName="r" values="14;18;14" dur="3.4s" repeatCount="indefinite"/></circle>
+  <circle r="5" fill="#111"/>
+  <g><circle cx="0" cy="-139" r="5" fill="#f8f8f5"/><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite"/></g>
+</g>
+<g clip-path="url(#orbClip)" opacity=".65"><rect x="888" y="100" width="328" height="4" fill="url(#sweep)"><animate attributeName="y" values="100;430;100" dur="6.5s" repeatCount="indefinite"/></rect></g>
+<g fill="#c6c6c2" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="2">
+  <text x="863" y="100">FIG. 01 / MOTION SYSTEM</text>
+  <text x="1243" y="443" text-anchor="end">ROTATION / LIGHT / FORM</text>
+</g>
+<path d="M52 466H1348" stroke="#666765" stroke-width="1"/>
+<g font-family="Arial,Helvetica,sans-serif">
+  <text x="55" y="494" fill="#8e8e8a" font-size="9" font-weight="700" letter-spacing="2.5">01 / EDIT</text>
+  <text x="55" y="517" fill="#f1f1ee" font-size="13" font-weight="700" letter-spacing="1.4">TIMING + STORY</text>
+  <text x="382" y="494" fill="#8e8e8a" font-size="9" font-weight="700" letter-spacing="2.5">02 / COMPOSITE</text>
+  <text x="382" y="517" fill="#f1f1ee" font-size="13" font-weight="700" letter-spacing="1.4">LIGHT + DEPTH</text>
+  <text x="710" y="494" fill="#8e8e8a" font-size="9" font-weight="700" letter-spacing="2.5">03 / DESIGN</text>
+  <text x="710" y="517" fill="#f1f1ee" font-size="13" font-weight="700" letter-spacing="1.4">HIERARCHY + FLOW</text>
+  <text x="1036" y="494" fill="#8e8e8a" font-size="9" font-weight="700" letter-spacing="2.5">04 / BUILD</text>
+  <text x="1036" y="517" fill="#f1f1ee" font-size="13" font-weight="700" letter-spacing="1.4">TOOLS + SYSTEMS</text>
+</g>
+<path d="M55 550H1345" stroke="#696966" stroke-width="2"/>
+<path d="M55 550H377" stroke="#f1f1ee" stroke-width="2"/>
+<circle cx="55" cy="550" r="4" fill="#f1f1ee"/>
+<circle cx="377" cy="550" r="4" fill="#f1f1ee"/>
+<circle cx="710" cy="550" r="4" fill="#f1f1ee"/>
+<circle cx="1036" cy="550" r="4" fill="#f1f1ee"/>
+<circle cx="1345" cy="550" r="4" fill="#f1f1ee"/>
+<circle cx="55" cy="550" r="7" fill="none" stroke="#f1f1ee" stroke-width="1.3"><animate attributeName="r" values="4;11;4" dur="3.2s" repeatCount="indefinite"/></circle>
+<g fill="#858581" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="2.2">
+  <text x="55" y="586">MONOCHROME / EDITORIAL / EXPERIMENTAL</text>
+  <text x="1345" y="586" text-anchor="end">PORTFOLIO INDEX / 001</text>
+</g>
+<g clip-path="url(#scanClip)" opacity=".055"><rect x="-150" y="93" width="60" height="345" fill="#fff"><animate attributeName="x" values="-150;1500;-150" dur="10s" repeatCount="indefinite"/></rect></g>
+</svg>
