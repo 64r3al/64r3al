@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="440" viewBox="0 0 960 440" role="img" aria-labelledby="title desc">
+<title id="title">MAP MUSIC PLAYER — project cover</title><desc id="desc">Black-and-white editorial artwork using audio waveforms and a minimalist player motif; a project cover, not a product screenshot.</desc>
+<defs>
+ <pattern id="dot" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#fff" opacity=".35"/></pattern>
+ <radialGradient id="disc"><stop offset="0" stop-color="#555"/><stop offset=".2" stop-color="#151515"/><stop offset=".52" stop-color="#444"/><stop offset=".56" stop-color="#101010"/><stop offset="1" stop-color="#080808"/></radialGradient>
+</defs>
+<rect width="960" height="440" fill="#080808"/>
+<rect x="22" y="22" width="916" height="396" fill="none" stroke="#bcbcbc" stroke-width="1.5"/>
+<text x="42" y="48" fill="#eee" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="3">IVX / INTERACTIVE SYSTEMS</text>
+<text x="916" y="48" text-anchor="end" fill="#aaa" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2">02 — NUI</text>
+<circle cx="681" cy="218" r="155" fill="url(#disc)" stroke="#aaa" stroke-width="1"/>
+<circle cx="681" cy="218" r="112" fill="none" stroke="#888" stroke-width="1" opacity=".6"/>
+<circle cx="681" cy="218" r="70" fill="none" stroke="#888" stroke-width="1" opacity=".6"/>
+<circle cx="681" cy="218" r="19" fill="#eaeaea"/>
+<circle cx="681" cy="218" r="7" fill="#111"/>
+<path d="M681 66V370M529 218H833" stroke="#bbb" stroke-width=".75" opacity=".55"/>
+<g fill="#f0f0f0">
+<rect x="58" y="298" width="5" height="10" opacity=".4"/><rect x="71" y="288.5" width="5" height="29" opacity=".95"/><rect x="84" y="279" width="5" height="48" opacity=".95"/><rect x="97" y="291.5" width="5" height="23" opacity=".95"/><rect x="110" y="276.5" width="5" height="53" opacity=".95"/><rect x="123" y="289" width="5" height="28" opacity=".95"/><rect x="136" y="279.5" width="5" height="47" opacity=".4"/><rect x="149" y="292" width="5" height="22" opacity=".95"/><rect x="162" y="277" width="5" height="52" opacity=".95"/><rect x="175" y="289.5" width="5" height="27" opacity=".95"/><rect x="188" y="280" width="5" height="46" opacity=".95"/><rect x="201" y="292.5" width="5" height="21" opacity=".95"/><rect x="214" y="277.5" width="5" height="51" opacity=".4"/><rect x="227" y="290" width="5" height="26" opacity=".95"/><rect x="240" y="280.5" width="5" height="45" opacity=".95"/><rect x="253" y="293" width="5" height="20" opacity=".95"/><rect x="266" y="278" width="5" height="50" opacity=".95"/><rect x="279" y="290.5" width="5" height="25" opacity=".95"/><rect x="292" y="281" width="5" height="44" opacity=".4"/><rect x="305" y="293.5" width="5" height="19" opacity=".95"/><rect x="318" y="278.5" width="5" height="49" opacity=".95"/><rect x="331" y="291" width="5" height="24" opacity=".95"/><rect x="344" y="281.5" width="5" height="43" opacity=".95"/><rect x="357" y="294" width="5" height="18" opacity=".95"/><rect x="370" y="279" width="5" height="48" opacity=".4"/><rect x="383" y="291.5" width="5" height="23" opacity=".95"/><rect x="396" y="282" width="5" height="42" opacity=".95"/><rect x="409" y="294.5" width="5" height="17" opacity=".95"/><rect x="422" y="279.5" width="5" height="47" opacity=".95"/><rect x="435" y="292" width="5" height="22" opacity=".95"/><rect x="448" y="282.5" width="5" height="41" opacity=".4"/><rect x="461" y="295" width="5" height="16" opacity=".95"/><rect x="474" y="280" width="5" height="46" opacity=".95"/><rect x="487" y="292.5" width="5" height="21" opacity=".95"/><rect x="500" y="283" width="5" height="40" opacity=".95"/><rect x="513" y="295.5" width="5" height="15" opacity=".95"/>
+</g>
+<text x="47" y="126" fill="#f3f3f3" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="900" letter-spacing="-2">MAP</text>
+<text x="47" y="181" fill="#f3f3f3" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="900" letter-spacing="-2">MUSIC</text>
+<text x="47" y="236" fill="#f3f3f3" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="900" letter-spacing="-2">PLAYER</text>
+<text x="49" y="260" fill="#aaa" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="3">FIVEM / NUI / AUDIO</text>
+<path d="M47 344H490" stroke="#343d4c" stroke-width="1"/>
+<text x="48" y="370" fill="#eee" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="2">CONTROL THE SOUNDTRACK.</text>
+<text x="48" y="391" fill="#888" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="2">PLAY / PAUSE / RESUME</text>
+<rect x="22" y="22" width="916" height="396" fill="url(#dot)" opacity=".26"/>
+<path d="M22 22H300" stroke="#c92b42" stroke-width="3"/><path d="M660 22H938" stroke="#4e7ed8" stroke-width="3"/></svg>
