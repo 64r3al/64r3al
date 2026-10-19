@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="440" viewBox="0 0 960 440" role="img" aria-labelledby="title desc">
+<title id="title">NOOR — A light for every child</title>
+<desc id="desc">Monochrome editorial cover for a six-language humanitarian information site and searchable source archive. This is a project cover, not a site screenshot.</desc>
+<defs><pattern id="halftone" width="7" height="7" patternUnits="userSpaceOnUse"><circle cx="1.8" cy="1.8" r=".7" fill="#111" opacity=".2"/></pattern></defs>
+<rect width="960" height="440" fill="#ededeb"/>
+<rect x="22" y="22" width="916" height="396" fill="none" stroke="#111" stroke-width="2"/>
+<path d="M42 70H918" stroke="#111" stroke-width="1.3"/>
+<text x="42" y="49" fill="#111" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="3">IVX / PUBLIC INFORMATION DESIGN</text>
+<text x="917" y="49" text-anchor="end" fill="#111" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2">03 — NOOR</text>
+<text x="44" y="169" fill="#080808" font-family="Arial,Helvetica,sans-serif" font-size="92" font-weight="900" letter-spacing="-5">NOOR</text>
+<text x="49" y="204" fill="#222" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="3">A LIGHT FOR EVERY CHILD</text>
+<text x="49" y="234" fill="#555" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2">HUMANITARIAN INFORMATION / SOURCE ARCHIVE</text>
+<path d="M48 256H520" stroke="#111" stroke-width="1"/>
+<text x="49" y="282" fill="#111" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="2">SIX LANGUAGES</text>
+<g font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700">
+<rect x="49" y="297" width="142" height="32" fill="#111" stroke="#111" stroke-width=".8"/><text x="60" y="317" fill="#eee" font-size="10">EN</text><text x="83" y="317" fill="#eee" font-size="9" letter-spacing=".6">ENGLISH</text><rect x="205" y="297" width="142" height="32" fill="#d5d5d2" stroke="#111" stroke-width=".8"/><text x="216" y="317" fill="#111" font-size="10">AR</text><text x="239" y="317" fill="#111" font-size="9" letter-spacing=".6">العربية</text><rect x="361" y="297" width="142" height="32" fill="#111" stroke="#111" stroke-width=".8"/><text x="372" y="317" fill="#eee" font-size="10">FR</text><text x="395" y="317" fill="#eee" font-size="9" letter-spacing=".6">FRANÇAIS</text><rect x="49" y="340" width="142" height="32" fill="#d5d5d2" stroke="#111" stroke-width=".8"/><text x="60" y="360" fill="#111" font-size="10">ES</text><text x="83" y="360" fill="#111" font-size="9" letter-spacing=".6">ESPAÑOL</text><rect x="205" y="340" width="142" height="32" fill="#111" stroke="#111" stroke-width=".8"/><text x="216" y="360" fill="#eee" font-size="10">PT</text><text x="239" y="360" fill="#eee" font-size="8" letter-spacing=".6">PORTUGUÊS</text><rect x="361" y="340" width="142" height="32" fill="#d5d5d2" stroke="#111" stroke-width=".8"/><text x="372" y="360" fill="#111" font-size="10">DE</text><text x="395" y="360" fill="#111" font-size="9" letter-spacing=".6">DEUTSCH</text>
+<g transform="translate(610 90)">
+  <rect width="294" height="273" fill="#080808"/>
+  <text x="20" y="30" fill="#eee" font-size="10" letter-spacing="2">EVIDENCE ARCHIVE / 002</text>
+  <path d="M20 43H274" stroke="#777" stroke-width="1"/>
+  <rect x="20" y="59" width="254" height="28" fill="#e8e8e5"/><text x="32" y="77" fill="#111" font-size="10" font-weight="700" letter-spacing="1">01</text><text x="68" y="77" fill="#111" font-size="9" letter-spacing=".8">SOURCE RECORD</text><rect x="20" y="95" width="254" height="28" fill="#202020"/><text x="32" y="113" fill="#eee" font-size="10" font-weight="700" letter-spacing="1">02</text><text x="68" y="113" fill="#eee" font-size="9" letter-spacing=".8">DATE + LOCATION</text><rect x="20" y="131" width="254" height="28" fill="#e8e8e5"/><text x="32" y="149" fill="#111" font-size="10" font-weight="700" letter-spacing="1">03</text><text x="68" y="149" fill="#111" font-size="9" letter-spacing=".8">TOPIC FILTERS</text><rect x="20" y="167" width="254" height="28" fill="#202020"/><text x="32" y="185" fill="#eee" font-size="10" font-weight="700" letter-spacing="1">04</text><text x="68" y="185" fill="#eee" font-size="9" letter-spacing=".8">STATUS + LINKS</text><rect x="20" y="203" width="254" height="28" fill="#e8e8e5"/><text x="32" y="221" fill="#111" font-size="10" font-weight="700" letter-spacing="1">05</text><text x="68" y="221" fill="#111" font-size="9" letter-spacing=".8">CROSS REFERENCES</text>
+  <path d="M20 254H274" stroke="#666"/>
+  <text x="20" y="268" fill="#bbb" font-size="8" letter-spacing="1.1">INFORMATION / TRACEABLE SOURCES</text>
+</g>
+<rect x="22" y="22" width="916" height="396" fill="url(#halftone)" opacity=".25"/>
+</svg>
