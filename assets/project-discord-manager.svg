@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="440" viewBox="0 0 960 440" role="img" aria-labelledby="title desc">
+<title id="title">DISCORD ROLE / NICKNAME MANAGER — project cover</title><desc id="desc">Monochrome editorial graphic about tracking and restoring member state; a project cover, not a product screenshot.</desc>
+<defs><pattern id="dots" width="7" height="7" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r=".8" fill="#111" opacity=".14"/></pattern></defs>
+<rect width="960" height="440" fill="#e9e9e6"/>
+<rect x="22" y="22" width="916" height="396" fill="none" stroke="#111" stroke-width="2"/>
+<rect x="22" y="22" width="916" height="36" fill="#080808"/>
+<text x="42" y="45" fill="#eee" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="3">IVX / COMMUNITY INFRASTRUCTURE</text>
+<text x="917" y="45" text-anchor="end" fill="#eee" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2">03 — STATE</text>
+<text x="46" y="126" fill="#090909" font-family="Arial,Helvetica,sans-serif" font-size="47" font-weight="900" letter-spacing="-1.5">REMEMBER</text>
+<text x="46" y="176" fill="#090909" font-family="Arial,Helvetica,sans-serif" font-size="47" font-weight="900" letter-spacing="-1.5">THE MEMBER.</text>
+<text x="49" y="203" fill="#444" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="3">ROLES / NICKNAMES / RESTORE</text>
+<path d="M48 225H910" stroke="#111" stroke-width="1.5"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<rect x="48" y="245" width="864" height="33" fill="#111"/>
+<text x="65" y="266" fill="#eee" font-size="11" font-weight="700" letter-spacing="2">EVENT</text><text x="405" y="266" fill="#eee" font-size="11" font-weight="700" letter-spacing="2">STATE</text><text x="740" y="266" fill="#eee" font-size="11" font-weight="700" letter-spacing="2">RESULT</text>
+<rect x="48" y="278" width="864" height="29" fill="#f8f8f5" stroke="#b5b5b1" stroke-width=".7"/><text x="65" y="297" fill="#111" font-size="11" font-weight="700" letter-spacing="1">MEMBER LEAVES</text><text x="405" y="297" fill="#333" font-size="11" letter-spacing=".5">SNAPSHOT SAVED</text><text x="740" y="297" fill="#111" font-size="11" font-weight="800" letter-spacing="1">PERSIST</text><rect x="48" y="307" width="864" height="29" fill="#dcdcd9" stroke="#b5b5b1" stroke-width=".7"/><text x="65" y="326" fill="#111" font-size="11" font-weight="700" letter-spacing="1">ROLE CHANGES</text><text x="405" y="326" fill="#333" font-size="11" letter-spacing=".5">STATE UPDATED</text><text x="740" y="326" fill="#111" font-size="11" font-weight="800" letter-spacing="1">TRACK</text><rect x="48" y="336" width="864" height="29" fill="#f8f8f5" stroke="#b5b5b1" stroke-width=".7"/><text x="65" y="355" fill="#111" font-size="11" font-weight="700" letter-spacing="1">MEMBER RETURNS</text><text x="405" y="355" fill="#333" font-size="11" letter-spacing=".5">SNAPSHOT CHECKED</text><text x="740" y="355" fill="#111" font-size="11" font-weight="800" letter-spacing="1">RESTORE</text><rect x="48" y="365" width="864" height="29" fill="#dcdcd9" stroke="#b5b5b1" stroke-width=".7"/><text x="65" y="384" fill="#111" font-size="11" font-weight="700" letter-spacing="1">ADMIN ACTION</text><text x="405" y="384" fill="#333" font-size="11" letter-spacing=".5">AUDIT RECORDED</text><text x="740" y="384" fill="#111" font-size="11" font-weight="800" letter-spacing="1">VERIFY</text>
+</g>
+<rect x="22" y="22" width="916" height="396" fill="url(#dots)" opacity=".28"/>
+</svg>
