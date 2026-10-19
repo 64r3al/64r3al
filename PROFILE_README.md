@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-editorial-banner.svg" alt="64R3AL / IVX — monochrome editorial identity with paper grain, high-contrast macro illustration, precise typography, and black-and-white visual studies." />
 
-<br/>
+</div>
 
 <p align="center">
 
@@ -14,30 +14,23 @@
 
 </p>
 
-<div align="center">
+<p align="center">
 
 <strong>VISUAL CRAFT</strong> &nbsp; / &nbsp; EDITING · VFX · CGI · MOTION
 &nbsp;&nbsp;&nbsp; // &nbsp;&nbsp;&nbsp;
 <strong>CREATIVE TECH</strong> &nbsp; / &nbsp; WEB · TOOLS · AUTOMATION
 
-</div>
+</p>
 
-<div align="center">
+<p align="center">
 
-<img src="https://img.shields.io/badge/VISUAL%20CRAFT-EDIT%20%2F%20VFX%20%2F%20CGI-111111?style=flat-square&labelColor=d8d8d5" alt="Video editing, VFX, and CGI" />
-<img src="https://img.shields.io/badge/CREATIVE%20TECH-WEB%20%2F%20TOOLS%20%2F%20AUTOMATION-111111?style=flat-square&labelColor=d8d8d5" alt="Creative technology, web, and automation" />
-
-</div>
-
-<div align="center">
-
-<a href="#about">01 / MINDSET</a> &nbsp; ◈ &nbsp;
-<a href="#selected-projects">02 / PROJECTS</a> &nbsp; ◈ &nbsp;
-<a href="#tool-index">03 / TOOL INDEX</a> &nbsp; ◈ &nbsp;
-<a href="#creative-development">04 / DEVELOPMENT</a> &nbsp; ◈ &nbsp;
+<a href="#about">01 / MINDSET</a> &nbsp; / &nbsp;
+<a href="#selected-projects">02 / PROJECTS</a> &nbsp; / &nbsp;
+<a href="#tool-index">03 / TOOL INDEX</a> &nbsp; / &nbsp;
+<a href="#creative-development">04 / DEVELOPMENT</a> &nbsp; / &nbsp;
 <a href="#collaborations">05 / CONTACT</a>
 
-</div>
+</p>
 
 <div align="center">
 
