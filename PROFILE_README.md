@@ -4,9 +4,21 @@
 
 <br/>
 
-<a href="https://github.com/64r3al?tab=repositories"><img src="https://img.shields.io/badge/PROJECT%20ARCHIVE-EXPLORE-111111?style=for-the-badge&labelColor=eeeeeb&color=111111" alt="Explore projects" /></a>
-<a href="mailto:ivxrxfx@gmail.com"><img src="https://img.shields.io/badge/STUDIO%20CONTACT-EMAIL-111111?style=for-the-badge&labelColor=eeeeeb&color=111111" alt="Contact by email" /></a>
-<a href="https://github.com/64r3al/IVX"><img src="https://img.shields.io/badge/HOUSE%20OF%20IVX-OPEN%20ARCHIVE-111111?style=for-the-badge&labelColor=eeeeeb&color=111111" alt="House of IVX" /></a>
+<p align="center">
+
+<a href="https://github.com/64r3al?tab=repositories"><strong>PROJECT ARCHIVE ↗</strong></a>
+&nbsp;&nbsp; / &nbsp;&nbsp;
+<a href="mailto:ivxrxfx@gmail.com"><strong>STUDIO CONTACT ↗</strong></a>
+&nbsp;&nbsp; / &nbsp;&nbsp;
+<a href="https://github.com/64r3al/IVX"><strong>HOUSE OF IVX ↗</strong></a>
+
+</p>
+
+<div align="center">
+
+<strong>VISUAL CRAFT</strong> &nbsp; / &nbsp; EDITING · VFX · CGI · MOTION
+&nbsp;&nbsp;&nbsp; // &nbsp;&nbsp;&nbsp;
+<strong>CREATIVE TECH</strong> &nbsp; / &nbsp; WEB · TOOLS · AUTOMATION
 
 </div>
 
@@ -21,7 +33,7 @@
 
 <a href="#about">01 / MINDSET</a> &nbsp; ◈ &nbsp;
 <a href="#selected-projects">02 / PROJECTS</a> &nbsp; ◈ &nbsp;
-<a href="#tool-armory">03 / TOOL ARMORY</a> &nbsp; ◈ &nbsp;
+<a href="#tool-index">03 / TOOL INDEX</a> &nbsp; ◈ &nbsp;
 <a href="#creative-development">04 / DEVELOPMENT</a> &nbsp; ◈ &nbsp;
 <a href="#collaborations">05 / CONTACT</a>
 
@@ -140,7 +152,7 @@ A focused selection across creative software, desktop utilities, multilingual we
 <a href="https://github.com/64r3al?tab=repositories">ALL REPOSITORIES ↗</a>
 </p>
 
-<a id="tool-armory"></a>
+<a id="tool-index"></a>
 
 ## 04 / THE TOOL INDEX
 
@@ -171,15 +183,22 @@ The toolkit is broad because the work crosses disciplines. I choose tools based 
 
 ## 05 / CREATIVE DEVELOPMENT
 
-<img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python" />
-<img src="https://img.shields.io/badge/Lua-111111?style=for-the-badge&logo=lua&logoColor=ffffff" alt="Lua" />
-<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3" />
-<img src="https://img.shields.io/badge/ExtendScript-111111?style=for-the-badge&logo=adobe&logoColor=ffffff" alt="ExtendScript" />
+<div align="center">
 
-**Frameworks & workflow:** React · Tailwind CSS · Vite · CEP / ExtendScript · FFmpeg · Git / GitHub · REST APIs
+**LANGUAGES**  
+TypeScript &nbsp; / &nbsp; JavaScript &nbsp; / &nbsp; Python &nbsp; / &nbsp; Lua &nbsp; / &nbsp; HTML &nbsp; / &nbsp; CSS &nbsp; / &nbsp; ExtendScript
+
+</div>
+
+| AREA | TOOLS / TECHNOLOGIES |
+|---|---|
+| **UI / FRONTEND** | React · Tailwind CSS · Vite · responsive HTML / CSS |
+| **CREATIVE APP DEVELOPMENT** | Adobe CEP · ExtendScript · After Effects text layers and expressions |
+| **APIs / INTEGRATIONS** | REST APIs · Groq Whisper API · Gemini API · Discord API |
+| **DATA / PUBLISHING** | Supabase · Vercel · GitHub Pages |
+| **VERSION CONTROL / AUTOMATION** | Git · GitHub · GitHub Actions · CI workflows |
+
+I use code both to build products and to improve creative workflows—especially where visuals, automation, and user experience meet.
 
 I use code both to build products and to improve creative workflows—especially where visuals, automation, and user experience meet.
 
