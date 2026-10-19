@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+<title id="title">IVX — Build with intent, finish with care</title><desc id="desc">A minimal black and gray closing graphic featuring an original translucent abstract sculpture and a stark editorial typography strip.</desc>
+<defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ededeb"/><stop offset="1" stop-color="#c9c9c6"/></linearGradient><linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff" stop-opacity=".95"/><stop offset=".22" stop-color="#777" stop-opacity=".4"/><stop offset=".42" stop-color="#fafafa" stop-opacity=".85"/><stop offset=".68" stop-color="#353535" stop-opacity=".75"/><stop offset="1" stop-color="#fff" stop-opacity=".85"/></linearGradient><pattern id="dots" width="7" height="7" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".65" fill="#000" opacity=".18"/></pattern></defs>
+<rect width="1200" height="230" fill="url(#paper)"/><rect width="1200" height="230" fill="url(#dots)" opacity=".38"/>
+<path d="M18 18H1182V212H18Z" fill="none" stroke="#111" stroke-width="1.5"/>
+<!-- Abstract translucent organic forms, deliberately sculptural rather than literal or game-like. -->
+<path d="M780 20C835 12 882 33 905 65C932 103 918 144 888 167C856 193 817 194 795 164C777 140 786 114 812 100C841 84 844 64 824 52C804 40 786 43 768 52C740 66 721 48 735 31C746 18 765 18 780 20Z" fill="url(#glass)" stroke="#777" stroke-width="1.4"/>
+<path d="M1038 25C1091 4 1146 36 1154 76C1161 111 1137 146 1101 153C1062 161 1038 132 1047 103C1054 81 1081 78 1085 60C1089 43 1061 39 1038 52C1016 65 994 49 1003 35C1010 24 1024 27 1038 25Z" fill="url(#glass)" stroke="#777" stroke-width="1.3"/>
+<path d="M751 30C804 44 823 80 804 111C793 131 770 137 763 155M1025 33C1053 57 1036 81 1015 97C993 114 1009 141 1037 144" fill="none" stroke="#f5f5f3" stroke-width="5" opacity=".8"/>
+<path d="M740 164C804 142 880 157 915 188M988 172C1039 152 1112 153 1157 180" fill="none" stroke="#333" stroke-width="1" opacity=".35"/>
+<rect x="18" y="80" width="1164" height="86" fill="#080808"/>
+<path d="M37 93H1163M37 153H1163" stroke="#717171" stroke-width=".7"/>
+<text x="42" y="111" fill="#bfbfbb" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="700" letter-spacing="3">HOUSE OF IVX / VISUAL PRACTICE</text>
+<text x="42" y="140" fill="#f0f0ed" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="900" letter-spacing="1.2">BUILD WITH INTENT. FINISH WITH CARE.</text>
+<text x="1158" y="112" text-anchor="end" fill="#bfbfbb" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="2">EDIT / COMPOSITE / BUILD</text>
+<text x="1158" y="140" text-anchor="end" fill="#f0f0ed" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="3">64R3AL / IVX</text>
+<text x="38" y="193" fill="#333" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="2.5">MONOCHROME / EDITORIAL / EXPERIMENTAL</text>
+<text x="1160" y="193" text-anchor="end" fill="#333" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="2.5">PUBLIC PROJECTS / CONTINUED</text>
+</svg>
