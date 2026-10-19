@@ -1,19 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-dark-legacy-banner.svg" alt="64r3al / IVX — The Dark Legacy. A royal chess-inspired graphite, silver, crimson and sapphire creative identity." />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-editorial-banner.svg" alt="64R3AL / IVX — monochrome editorial identity with paper grain, high-contrast macro illustration, precise typography, and black-and-white visual studies." />
 
 <br/>
 
-<a href="https://github.com/64r3al?tab=repositories"><img src="https://img.shields.io/badge/01-PROJECT%20ARCHIVE-11151d?style=for-the-badge&labelColor=8e1b30&color=11151d" alt="Explore the project archive" /></a>
-<a href="mailto:ivxrxfx@gmail.com"><img src="https://img.shields.io/badge/02-STUDIO%20CONTACT-11151d?style=for-the-badge&labelColor=315a9d&color=11151d" alt="Contact the studio" /></a>
-<a href="https://github.com/64r3al/IVX"><img src="https://img.shields.io/badge/03-HOUSE%20OF%20IVX-11151d?style=for-the-badge&labelColor=626c7c&color=11151d" alt="House of IVX repository" /></a>
+<a href="https://github.com/64r3al?tab=repositories"><img src="https://img.shields.io/badge/PROJECT%20ARCHIVE-EXPLORE-111111?style=for-the-badge&labelColor=eeeeeb&color=111111" alt="Explore projects" /></a>
+<a href="mailto:ivxrxfx@gmail.com"><img src="https://img.shields.io/badge/STUDIO%20CONTACT-EMAIL-111111?style=for-the-badge&labelColor=eeeeeb&color=111111" alt="Contact by email" /></a>
+<a href="https://github.com/64r3al/IVX"><img src="https://img.shields.io/badge/HOUSE%20OF%20IVX-OPEN%20ARCHIVE-111111?style=for-the-badge&labelColor=eeeeeb&color=111111" alt="House of IVX" /></a>
 
 </div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/VISUAL%20CRAFT-EDIT%20%2F%20VFX%20%2F%20CGI-11151d?style=flat-square&labelColor=8e1b30" alt="Video editing, VFX and CGI" />
-<img src="https://img.shields.io/badge/CREATIVE%20TECH-WEB%20%2F%20TOOLS%20%2F%20AUTOMATION-11151d?style=flat-square&labelColor=315a9d" alt="Creative technology, web and automation" />
+<img src="https://img.shields.io/badge/VISUAL%20CRAFT-EDIT%20%2F%20VFX%20%2F%20CGI-111111?style=flat-square&labelColor=d8d8d5" alt="Video editing, VFX, and CGI" />
+<img src="https://img.shields.io/badge/CREATIVE%20TECH-WEB%20%2F%20TOOLS%20%2F%20AUTOMATION-111111?style=flat-square&labelColor=d8d8d5" alt="Creative technology, web, and automation" />
 
 </div>
 
@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-dark-legacy-divider.svg" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-editorial-divider.svg" alt="" />
 
 </div>
 
@@ -53,7 +53,7 @@ I like the full process: shaping the idea, finding the right workflow, refining 
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-dark-legacy-divider.svg" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-editorial-divider.svg" alt="" />
 
 </div>
 
@@ -67,7 +67,7 @@ A focused selection across creative software, desktop utilities, multilingual we
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/64r3al/Pro-Caption-AE"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/profile-cover-pro-caption.svg" alt="Pro Caption AE editorial project cover" /></a>
+<a href="https://github.com/64r3al/Pro-Caption-AE"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/editorial-cover-pro-caption.svg" alt="Pro Caption AE editorial project cover" /></a>
 
 <h3>01 / Pro Caption AE</h3>
 <p><strong>CREATIVE SOFTWARE / AFTER EFFECTS</strong></p>
@@ -77,7 +77,7 @@ A focused selection across creative software, desktop utilities, multilingual we
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/64r3al/IVX-Clean"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/profile-cover-ivx-clean.svg" alt="IVX Clean editorial project cover" /></a>
+<a href="https://github.com/64r3al/IVX-Clean"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/editorial-cover-ivx-clean.svg" alt="IVX Clean editorial project cover" /></a>
 
 <h3>02 / IVX Clean</h3>
 <p><strong>WINDOWS UTILITY / OPEN SOURCE</strong></p>
@@ -89,7 +89,7 @@ A focused selection across creative software, desktop utilities, multilingual we
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/64r3al/GAZA"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/profile-cover-noor.svg" alt="NOOR humanitarian information website project cover" /></a>
+<a href="https://github.com/64r3al/GAZA"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/editorial-cover-noor.svg" alt="NOOR humanitarian information website project cover" /></a>
 
 <h3>03 / NOOR — A Light for Every Child</h3>
 <p><strong>MULTILINGUAL WEB / INFORMATION DESIGN</strong></p>
@@ -99,7 +99,7 @@ A focused selection across creative software, desktop utilities, multilingual we
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/64r3al/Map-Music-Player"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/profile-cover-map-music.svg" alt="Map Music Player editorial project cover" /></a>
+<a href="https://github.com/64r3al/Map-Music-Player"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/editorial-cover-map-music.svg" alt="Map Music Player editorial project cover" /></a>
 
 <h3>04 / Map Music Player</h3>
 <p><strong>FIVEM / NUI / INTERACTION</strong></p>
@@ -111,7 +111,7 @@ A focused selection across creative software, desktop utilities, multilingual we
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/64r3al/Discord-Role-Nickname"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/profile-cover-discord-manager.svg" alt="Discord role and nickname manager project cover" /></a>
+<a href="https://github.com/64r3al/Discord-Role-Nickname"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/editorial-cover-discord-manager.svg" alt="Discord role and nickname manager project cover" /></a>
 
 <h3>05 / Discord Role / Nickname Manager</h3>
 <p><strong>COMMUNITY AUTOMATION</strong></p>
@@ -121,7 +121,7 @@ A focused selection across creative software, desktop utilities, multilingual we
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/64r3al/AURA-Capital-Engine"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/profile-cover-aura.svg" alt="AURA Capital Engine editorial project cover" /></a>
+<a href="https://github.com/64r3al/AURA-Capital-Engine"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/editorial-cover-aura.svg" alt="AURA Capital Engine editorial project cover" /></a>
 
 <h3>06 / AURA Capital Engine</h3>
 <p><strong>SYSTEM DESIGN / FINANCE CONCEPT</strong></p>
@@ -142,11 +142,11 @@ A focused selection across creative software, desktop utilities, multilingual we
 
 <a id="tool-armory"></a>
 
-## 04 / THE TOOL ARMORY
+## 04 / THE TOOL INDEX
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-dark-legacy-toolkit.svg" alt="Dark Legacy themed index of creative production, 3D and VFX, art direction, and development tools." />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-editorial-tool-index.svg" alt="Monochrome editorial tool index for editing, 3D, VFX, design, and creative development." />
 
 </div>
 
@@ -163,7 +163,7 @@ The toolkit is broad because the work crosses disciplines. I choose tools based 
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-dark-legacy-divider.svg" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-editorial-divider.svg" alt="" />
 
 </div>
 
@@ -171,13 +171,13 @@ The toolkit is broad because the work crosses disciplines. I choose tools based 
 
 ## 05 / CREATIVE DEVELOPMENT
 
-<img src="https://img.shields.io/badge/TypeScript-171b25?style=for-the-badge&logo=typescript&logoColor=91b6ff" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-171b25?style=for-the-badge&logo=javascript&logoColor=d8dde6" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Python-171b25?style=for-the-badge&logo=python&logoColor=91b6ff" alt="Python" />
-<img src="https://img.shields.io/badge/Lua-171b25?style=for-the-badge&logo=lua&logoColor=c3cad6" alt="Lua" />
-<img src="https://img.shields.io/badge/HTML5-171b25?style=for-the-badge&logo=html5&logoColor=c3cad6" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-171b25?style=for-the-badge&logo=css3&logoColor=91b6ff" alt="CSS3" />
-<img src="https://img.shields.io/badge/ExtendScript-171b25?style=for-the-badge&logo=adobe&logoColor=ed526a" alt="ExtendScript" />
+<img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python" />
+<img src="https://img.shields.io/badge/Lua-111111?style=for-the-badge&logo=lua&logoColor=ffffff" alt="Lua" />
+<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3" />
+<img src="https://img.shields.io/badge/ExtendScript-111111?style=for-the-badge&logo=adobe&logoColor=ffffff" alt="ExtendScript" />
 
 **Frameworks & workflow:** React · Tailwind CSS · Vite · CEP / ExtendScript · FFmpeg · Git / GitHub · REST APIs
 
@@ -197,7 +197,7 @@ I use code both to build products and to improve creative workflows—especially
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-dark-legacy-divider.svg" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-editorial-divider.svg" alt="" />
 
 </div>
 
@@ -354,7 +354,7 @@ A systems-design experiment that turns a revenue input into an allocation plan a
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-dark-legacy-divider.svg" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-editorial-divider.svg" alt="" />
 
 </div>
 
@@ -389,7 +389,7 @@ The exact process depends on the project. A short edit may prioritize rhythm and
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-dark-legacy-divider.svg" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-editorial-divider.svg" alt="" />
 
 </div>
 
@@ -397,8 +397,8 @@ The exact process depends on the project. A short edit may prioritize rhythm and
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=64r3al&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6e6e6&text_color=9ca3af&icon_color=c24141&include_all_commits=true" alt="GitHub account activity overview" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=64r3al&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6e6e6&text_color=9ca3af&langs_count=8" alt="Most used languages across public GitHub repositories" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=64r3al&show_icons=true&hide_border=true&bg_color=d8d8d5&title_color=111111&text_color=444444&icon_color=555555&include_all_commits=true" alt="GitHub account activity overview" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=64r3al&layout=compact&hide_border=true&bg_color=d8d8d5&title_color=111111&text_color=444444&langs_count=8" alt="Most used languages across public GitHub repositories" />
 
 </div>
 
@@ -406,7 +406,7 @@ The exact process depends on the project. A short edit may prioritize rhythm and
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-dark-legacy-divider.svg" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-editorial-divider.svg" alt="" />
 
 </div>
 
@@ -429,13 +429,13 @@ For project inquiries, include the goal, references, delivery format, scope, and
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-dark-legacy-divider.svg" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-editorial-divider.svg" alt="" />
 
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-dark-legacy-footer.svg" alt="IVX — Build with intent. Finish with care." />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-editorial-footer.svg" alt="IVX — monochrome sculpture study and editorial closing statement." />
 
 <br/><br/>
 
