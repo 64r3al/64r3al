@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="34" viewBox="0 0 1200 34"><path d="M0 17h490M710 17h490" stroke="#6f572b" stroke-width="1"/><path d="M588 17l12-12 12 12-12 12z" fill="none" stroke="#cdb879" stroke-width="1.5"/><circle cx="570" cy="17" r="2" fill="#cdb879"/><circle cx="630" cy="17" r="2" fill="#cdb879"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="42" viewBox="0 0 1200 42" role="img" aria-label="IVX — image, motion, form">
+<rect width="1200" height="42" fill="#080808"/>
+<path d="M24 8H1176M24 34H1176" stroke="#858585" stroke-width=".7"/>
+<path d="M28 21H420M780 21H1172" stroke="#f0f0ee" stroke-width="1"/>
+<rect x="585" y="13" width="30" height="16" fill="none" stroke="#f0f0ee" stroke-width="1"/>
+<text x="600" y="24" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="700" letter-spacing="1" fill="#f0f0ee">IVX</text>
+</svg>
