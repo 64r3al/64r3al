@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="76" viewBox="0 0 1200 76" role="img" aria-label="Animated monochrome IVX section divider">
+<defs>
+  <pattern id="grain" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="2" cy="3" r=".7" fill="#111" opacity=".17"/><circle cx="6" cy="6" r=".5" fill="#111" opacity=".12"/></pattern>
+  <clipPath id="bar"><rect x="18" y="24" width="1164" height="30"/></clipPath>
+  <linearGradient id="shine"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".48"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1200" height="76" fill="#dededb"/><rect width="1200" height="76" fill="url(#grain)" opacity=".45"/>
+<path d="M22 8H1178M22 69H1178" stroke="#111" stroke-width="1.4"/>
+<text x="24" y="19" fill="#333" font-family="Arial,Helvetica,sans-serif" font-size="8" letter-spacing="3">IVX / VISUAL ARCHIVE</text>
+<rect x="18" y="24" width="1164" height="30" fill="#080808"/>
+<g clip-path="url(#bar)"><rect x="-90" y="24" width="95" height="30" fill="url(#shine)"><animate attributeName="x" values="-100;1200;-100" dur="7.5s" repeatCount="indefinite"/></rect></g>
+<path d="M32 39H1168" stroke="#8c8c88" stroke-opacity=".4" stroke-width=".6"/>
+<text x="32" y="43" fill="#f0f0ed" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="2">IMAGE / MOTION / FORM</text>
+<text x="600" y="43" text-anchor="middle" fill="#c4c4c0" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="2">CREATIVE WORK MEETS TECHNICAL CRAFT</text>
+<text x="1168" y="43" text-anchor="end" fill="#f0f0ed" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="2">64R3AL</text>
+<text x="1167" y="65" text-anchor="end" fill="#333" font-family="Arial,Helvetica,sans-serif" font-size="8" letter-spacing="3">SELECTED PRACTICE / 001</text>
+<circle cx="22" cy="39" r="2.5" fill="#f5f5f1"><animate attributeName="opacity" values=".3;1;.3" dur="2.6s" repeatCount="indefinite"/></circle>
+</svg>
