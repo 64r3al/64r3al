@@ -202,31 +202,50 @@ A focused selection of public projects. The images are original editorial projec
 
 ## 03 / UI / UX & DIGITAL EXPERIENCES
 
-UI design is not just how a screen looks. I care about how clearly people can understand it, navigate it, recover from errors, and finish the task they came to do.
+I approach UI as a **working system, not a static mockup**: the interface should feel intentional, explain itself quickly, respond clearly, and remain usable when the screen, content, or language changes.
 
-| DESIGN AREA | WHAT I FOCUS ON |
+| DESIGN LAYER | WHAT I BUILD FOR |
 |---|---|
-| **INTERFACE DESIGN** | Visual hierarchy, typography, spacing, contrast, consistency, clear labels, meaningful states, and restrained decoration |
-| **USER EXPERIENCE** | Navigation, information structure, task flow, feedback, empty/error states, and reducing unnecessary steps |
-| **RESPONSIVE UI** | Layouts that adapt to desktop and mobile widths without clipped text, broken controls, or awkward spacing |
-| **LOCALIZATION** | Language-aware copy, text expansion, Arabic right-to-left layout, direction-sensitive alignment, and avoiding mixed-language UI |
-| **ACCESSIBILITY** | Legible contrast, useful image descriptions, keyboard-friendly patterns where supported, reduced-motion preferences, and clear focus/feedback states |
-| **VISUAL SYSTEMS** | Reusable components, consistent buttons and panels, spacing rules, icon use, and coherent light/dark or monochrome visual treatment |
+| **Visual interface** | Typography, hierarchy, spacing, grids, contrast, icon consistency, composition, and polished details |
+| **Product UX** | Navigation, information architecture, task flows, clear labels, useful defaults, and fewer unnecessary steps |
+| **Responsive layouts** | Flexible panels, readable content, touch-friendly controls, stable spacing, and layouts that adapt from desktop to mobile |
+| **Interaction & motion** | Hover/focus feedback, intentional transitions, loading indicators, progressive disclosure, tooltips, and state changes that feel responsive |
+| **Design systems** | Reusable components, consistent button and panel patterns, spacing rules, visual tokens, and predictable behavior across screens |
+| **Localization & RTL** | English/Arabic layouts, right-to-left direction, language-aware alignment, text expansion, mixed-script handling, and avoiding broken or awkward translations |
+| **Accessibility & resilience** | Readability, contrast, clear focus and error states, keyboard-friendly patterns where supported, reduced-motion considerations, and fallbacks when something fails |
+
+### A screen is only one state of the product
+
+Good UI covers the whole journey—not just the ideal screenshot.
+
+| STATE | INTERFACE SHOULD… |
+|---|---|
+| **Idle / ready** | Make the next action obvious |
+| **Working / loading** | Show progress and prevent confusing duplicate actions |
+| **Empty** | Explain why there is no content and offer a useful next step |
+| **Success** | Confirm what happened and what comes next |
+| **Warning / destructive action** | Explain the consequence and ask for deliberate confirmation |
+| **Error / offline** | Use clear language, preserve user input where possible, and offer recovery |
+
+### Motion direction
+
+I prefer motion that **communicates**, rather than animation for its own sake: subtle reveals, short transitions, directional movement, restrained scanning highlights, and clear feedback. Movement should support hierarchy and state changes, stay lightweight, and never make essential information hard to read.
+
+The profile header uses a real looping GIF for motion on GitHub. The README itself cannot run custom JavaScript or CSS-driven app interactions, so the animation is delivered as image assets rather than pretending the profile is an interactive website.
+
+### Where this practice shows up
+
+- **[Pro Caption AE](https://github.com/64r3al/Pro-Caption-AE)** — a creative panel organized around transcription, caption styling, motion controls, and an editable After Effects workflow.
+- **[IVX Clean](https://github.com/64r3al/IVX-Clean)** — a Windows utility with review-before-action flows, explicit safety states, and cautious handling of destructive actions.
+- **[NOOR](https://gaza-zeta.vercel.app/)** — an English/Arabic information website with right-to-left support and a source archive. [Repository ↗](https://github.com/64r3al/GAZA)
 
 **UI / design toolkit:** Framer · Photoshop · Illustrator · PureRef · HTML / CSS · React · Tailwind CSS
 
-### Where this shows up
-
-- **Pro Caption AE:** a creative panel designed around transcription, caption styling, animation controls, and an editable After Effects workflow.
-- **IVX Clean:** a Windows utility project with UI reference designs, explicit safety states, review-before-action workflows, and cautious handling of destructive actions.
-- **NOOR:** a responsive English/Arabic information website with right-to-left support and a searchable source archive.
-
 <p align="center">
 
-<strong>STRUCTURE</strong> &nbsp; / &nbsp; <strong>HIERARCHY</strong> &nbsp; / &nbsp; <strong>STATES</strong> &nbsp; / &nbsp; <strong>RESPONSIVE LAYOUT</strong> &nbsp; / &nbsp; <strong>POLISH</strong>
+<strong>STRUCTURE</strong> &nbsp; / &nbsp; <strong>HIERARCHY</strong> &nbsp; / &nbsp; <strong>INTERACTION</strong> &nbsp; / &nbsp; <strong>MOTION</strong> &nbsp; / &nbsp; <strong>RESPONSIVE LAYOUT</strong> &nbsp; / &nbsp; <strong>POLISH</strong>
 
 </p>
-
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-divider.svg" alt="" />
