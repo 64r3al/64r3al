@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="440" viewBox="0 0 960 440" role="img" aria-labelledby="title desc">
+<title id="title">IVX / 01 / CREATIVE SOFTWARE</title><desc id="desc">An original monochrome editorial project poster, with Swiss typography, paper grain, black ink, halftone shading and a custom vector illustration.</desc>
+<defs><pattern id="dotsDark" width="6" height="6" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r=".7" fill="#080808" opacity=".3"/></pattern><pattern id="dotsLight" width="6" height="6" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r=".7" fill="#f0f0ed" opacity=".35"/></pattern><linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff"/><stop offset=".4" stop-color="#777"/><stop offset=".75" stop-color="#e8e8e5"/><stop offset="1" stop-color="#444"/></linearGradient></defs>
+<rect width="960" height="440" fill="#dededb"/><rect width="960" height="440" fill="url(#dotsDark)" opacity=".16"/>
+<rect x="18" y="18" width="924" height="404" fill="none" stroke="#080808" stroke-width="1.5"/>
+<path d="M30 34H930" stroke="#080808" stroke-width="4"/>
+<text x="34" y="58" fill="#111" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" letter-spacing="2.9">HOUSE OF IVX / PROJECT FILE</text>
+<text x="926" y="58" text-anchor="end" fill="#333" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="2.3">01 / CREATIVE SOFTWARE</text>
+<path d="M30 76H930" stroke="#111" stroke-width="1.2"/>
+<text x="40" y="137" fill="#080808" font-family="Arial,Helvetica,sans-serif" font-size="39" font-weight="900" letter-spacing="1.4">PRO CAPTION</text>
+<text x="40" y="181" fill="#080808" font-family="Arial,Helvetica,sans-serif" font-size="40" font-weight="900" letter-spacing="2.2">AE</text>
+<path d="M40 202H604" stroke="#111" stroke-width="1.3"/>
+<text x="40" y="228" fill="#444" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="700" letter-spacing="1.2">WORD-SYNCED MOTION / AFTER EFFECTS</text>
+<text x="40" y="255" fill="#555" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="1.6">VISUAL SYSTEM / SELECTED STUDY</text>
+<text x="40" y="285" fill="#111" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="1.7">IMAGE / MOTION / FORM</text>
+<text x="40" y="308" fill="#555" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="1.4">DESIGN WITH PURPOSE.</text>
+<g transform="translate(642 112)">
+<rect x="0" y="0" width="278" height="224" fill="#080808"/>
+<rect x="0" y="0" width="278" height="224" fill="url(#dotsLight)" opacity=".32"/>
+<path d="M15 111C31 111 31 63 47 63S63 159 79 159S95 89 111 89S127 44 143 44S159 178 175 178S191 75 207 75S223 130 239 130S255 98 263 98" fill="none" stroke="#ededeb" stroke-width="2.2"/>
+<g fill="#eee">
+<rect x="17" y="34" width="7" height="21"/><rect x="27" y="27" width="7" height="28"/><rect x="37" y="40" width="7" height="15"/>
+<rect x="48" y="168" width="7" height="27"/><rect x="58" y="154" width="7" height="41"/><rect x="68" y="176" width="7" height="19"/>
+<rect x="181" y="28" width="7" height="20"/><rect x="191" y="18" width="7" height="30"/><rect x="201" y="33" width="7" height="15"/>
+</g>
+<path d="M15 189H261" stroke="#777" stroke-width=".8"/>
+<text x="17" y="208" fill="#eee" font-family="Arial,sans-serif" font-size="9" letter-spacing="2">VOICE / TIMING / FORM</text>
+</g>
+<rect x="30" y="352" width="900" height="42" fill="#080808"/>
+<text x="44" y="369" fill="#d5d5d1" font-family="Arial,Helvetica,sans-serif" font-size="8" letter-spacing="2.1">IVX / SELECTED WORK</text>
+<text x="44" y="385" fill="#f0f0ed" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">01 / CREATIVE SOFTWARE</text>
+<text x="915" y="378" text-anchor="end" fill="#f0f0ed" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="900" letter-spacing="2">/ 01</text>
+<text x="36" y="410" fill="#444" font-family="Arial,Helvetica,sans-serif" font-size="8" letter-spacing="2.5">BLACK / PAPER / GRAIN</text>
+<text x="925" y="410" text-anchor="end" fill="#444" font-family="Arial,Helvetica,sans-serif" font-size="8" letter-spacing="2.5">MONOCHROME EDITORIAL</text>
+</svg>
