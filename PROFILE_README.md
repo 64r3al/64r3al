@@ -51,6 +51,12 @@ I like the full process: shaping the idea, finding the right workflow, refining 
 | Motion graphics and animation | Automation, APIs and integrations |
 | Graphic design and visual direction | Accessibility, localization and UI details |
 
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-dark-legacy-divider.svg" alt="" />
+
+</div>
+
 <a id="selected-projects"></a>
 
 ## 03 / SELECTED PROJECTS
@@ -61,7 +67,7 @@ A focused selection across creative software, desktop utilities, multilingual we
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/64r3al/Pro-Caption-AE"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/project-pro-caption.svg" alt="Pro Caption AE editorial project cover" /></a>
+<a href="https://github.com/64r3al/Pro-Caption-AE"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/dark-project-pro-caption.svg" alt="Pro Caption AE editorial project cover" /></a>
 
 <h3>01 / Pro Caption AE</h3>
 <p><strong>CREATIVE SOFTWARE / AFTER EFFECTS</strong></p>
@@ -71,7 +77,7 @@ A focused selection across creative software, desktop utilities, multilingual we
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/64r3al/IVX-Clean"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/project-ivx-clean.svg" alt="IVX Clean editorial project cover" /></a>
+<a href="https://github.com/64r3al/IVX-Clean"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/dark-project-ivx-clean.svg" alt="IVX Clean editorial project cover" /></a>
 
 <h3>02 / IVX Clean</h3>
 <p><strong>WINDOWS UTILITY / OPEN SOURCE</strong></p>
@@ -83,7 +89,7 @@ A focused selection across creative software, desktop utilities, multilingual we
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/64r3al/GAZA"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/project-noor.svg" alt="NOOR humanitarian information website project cover" /></a>
+<a href="https://github.com/64r3al/GAZA"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/dark-project-noor.svg" alt="NOOR humanitarian information website project cover" /></a>
 
 <h3>03 / NOOR — A Light for Every Child</h3>
 <p><strong>MULTILINGUAL WEB / INFORMATION DESIGN</strong></p>
@@ -93,7 +99,7 @@ A focused selection across creative software, desktop utilities, multilingual we
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/64r3al/Map-Music-Player"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/project-map-music.svg" alt="Map Music Player editorial project cover" /></a>
+<a href="https://github.com/64r3al/Map-Music-Player"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/dark-project-map-music.svg" alt="Map Music Player editorial project cover" /></a>
 
 <h3>04 / Map Music Player</h3>
 <p><strong>FIVEM / NUI / INTERACTION</strong></p>
@@ -105,7 +111,7 @@ A focused selection across creative software, desktop utilities, multilingual we
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/64r3al/Discord-Role-Nickname"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/project-discord-manager.svg" alt="Discord role and nickname manager project cover" /></a>
+<a href="https://github.com/64r3al/Discord-Role-Nickname"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/dark-project-discord-manager.svg" alt="Discord role and nickname manager project cover" /></a>
 
 <h3>05 / Discord Role / Nickname Manager</h3>
 <p><strong>COMMUNITY AUTOMATION</strong></p>
@@ -115,7 +121,7 @@ A focused selection across creative software, desktop utilities, multilingual we
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/64r3al/AURA-Capital-Engine"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/project-aura.svg" alt="AURA Capital Engine editorial project cover" /></a>
+<a href="https://github.com/64r3al/AURA-Capital-Engine"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/dark-project-aura.svg" alt="AURA Capital Engine editorial project cover" /></a>
 
 <h3>06 / AURA Capital Engine</h3>
 <p><strong>SYSTEM DESIGN / FINANCE CONCEPT</strong></p>
@@ -188,6 +194,12 @@ I use code both to build products and to improve creative workflows—especially
 3. **Refine the details** — timing, composition, usability, accessibility, consistency, and safety.
 4. **Deliver cleanly** — a useful final result, clear structure, and a straightforward handoff.
 
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-dark-legacy-divider.svg" alt="" />
+
+</div>
 
 ## 08 / CREATIVE DISCIPLINES
 
@@ -340,6 +352,12 @@ A systems-design experiment that turns a revenue input into an allocation plan a
 
 </details>
 
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-dark-legacy-divider.svg" alt="" />
+
+</div>
+
 ## 11 / HOW I BUILD
 
 ```text
@@ -369,6 +387,12 @@ The exact process depends on the project. A short edit may prioritize rhythm and
 - **Craft plus systems thinking** — a good result should look right and work reliably.
 - **Finish the details** — spacing, timing, labels, edge quality, error states, documentation, and delivery all matter.
 
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-dark-legacy-divider.svg" alt="" />
+
+</div>
+
 ## 13 / GITHUB ACTIVITY
 
 <div align="center">
@@ -379,6 +403,12 @@ The exact process depends on the project. A short edit may prioritize rhythm and
 </div>
 
 <sub>These cards are generated from GitHub repository data by a third-party service. Language percentages describe repository code, not overall ability or creative software skills, and the service may occasionally be unavailable.</sub>
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-dark-legacy-divider.svg" alt="" />
+
+</div>
 
 <a id="collaborations"></a>
 
