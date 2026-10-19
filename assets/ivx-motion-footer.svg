@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+<title id="title">IVX — Build with intent, finish with care</title><desc id="desc">An animated monochrome closing banner with a sculptural technical orbit, subtle glints, and the IVX working principle.</desc>
+<defs>
+  <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ededeb"/><stop offset="1" stop-color="#c9c9c6"/></linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff" stop-opacity=".95"/><stop offset=".22" stop-color="#777" stop-opacity=".4"/><stop offset=".42" stop-color="#fafafa" stop-opacity=".85"/><stop offset=".68" stop-color="#353535" stop-opacity=".75"/><stop offset="1" stop-color="#fff" stop-opacity=".85"/></linearGradient>
+  <pattern id="dots" width="7" height="7" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".65" fill="#000" opacity=".18"/></pattern>
+</defs>
+<rect width="1200" height="230" fill="url(#paper)"/><rect width="1200" height="230" fill="url(#dots)" opacity=".38"/>
+<path d="M18 18H1182V212H18Z" fill="none" stroke="#111" stroke-width="1.5"/>
+<g transform="translate(982 112)">
+  <circle r="74" fill="none" stroke="#111" stroke-opacity=".55" stroke-width="1.2" stroke-dasharray="2 6"/>
+  <circle r="54" fill="url(#glass)" stroke="#555" stroke-width="1.2"/>
+  <ellipse rx="86" ry="27" fill="none" stroke="#333" stroke-width="1.3"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="19s" repeatCount="indefinite"/></ellipse>
+  <ellipse rx="86" ry="27" fill="none" stroke="#777" stroke-width="1.3" transform="rotate(65)"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="14s" repeatCount="indefinite"/></ellipse>
+  <circle r="8" fill="#f6f6f3"><animate attributeName="r" values="6;10;6" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="0" cy="-86" r="4" fill="#111"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="9s" repeatCount="indefinite"/></circle>
+</g>
+<path d="M740 28C790 43 808 77 790 108C778 128 759 137 754 155M1090 42C1114 64 1095 88 1074 105C1052 122 1068 147 1096 150" fill="none" stroke="#fff" stroke-width="4" opacity=".72"/>
+<rect x="18" y="80" width="1164" height="86" fill="#080808"/>
+<path d="M37 93H1163M37 153H1163" stroke="#717171" stroke-width=".7"/>
+<text x="42" y="111" fill="#bfbfbb" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="700" letter-spacing="3">HOUSE OF IVX / VISUAL PRACTICE</text>
+<text x="42" y="140" fill="#f0f0ed" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="900" letter-spacing="1.2">BUILD WITH INTENT. FINISH WITH CARE.</text>
+<text x="1158" y="112" text-anchor="end" fill="#bfbfbb" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="2">EDIT / COMPOSITE / BUILD</text>
+<text x="1158" y="140" text-anchor="end" fill="#f0f0ed" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="3">64R3AL / IVX</text>
+<text x="38" y="193" fill="#333" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="2.5">MONOCHROME / EDITORIAL / EXPERIMENTAL</text>
+<text x="1160" y="193" text-anchor="end" fill="#333" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="2.5">PUBLIC PROJECTS / CONTINUED</text>
+</svg>
