@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="790" viewBox="0 0 1200 790" role="img" aria-labelledby="title desc">
+<title id="title">IVX — The Tool Index</title><desc id="desc">A monochrome Swiss editorial index for video, CGI, design and creative development tools, using paper gray, ink black, fine rules and halftone texture.</desc>
+<defs><pattern id="paperdots" width="7" height="7" patternUnits="userSpaceOnUse"><circle cx="1.4" cy="1.4" r=".65" fill="#111" opacity=".12"/></pattern><pattern id="halftone" width="5" height="5" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".65" fill="#eee" opacity=".38"/></pattern></defs>
+<rect width="1200" height="790" fill="#dededb"/><rect width="1200" height="790" fill="url(#paperdots)"/>
+<rect x="24" y="24" width="1152" height="742" fill="none" stroke="#080808" stroke-width="2"/>
+<path d="M46 54H1154" stroke="#080808" stroke-width="5"/>
+<text x="48" y="82" fill="#111" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" letter-spacing="3.2">HOUSE OF IVX / PRODUCTION NOTES</text>
+<text x="48" y="145" fill="#080808" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="900" letter-spacing="-2">THE TOOL INDEX</text>
+<text x="1148" y="140" text-anchor="end" fill="#111" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="900">/ 04</text>
+<text x="50" y="173" fill="#444" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2">SELECTED TOOLS / FLEXIBLE PIPELINES / FINISHED FRAMES</text>
+<path d="M48 189H1152" stroke="#111" stroke-width="1.5"/>
+<!-- edit panel -->
+<rect x="48" y="207" width="540" height="215" fill="#eeeeeb" stroke="#111" stroke-width="1.4"/>
+<rect x="48" y="207" width="540" height="34" fill="#080808"/>
+<text x="65" y="229" fill="#f1f1ee" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="2">01 / EDIT + MOTION</text>
+<text x="65" y="269" fill="#111" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="900">After Effects</text>
+<text x="65" y="294" fill="#333" font-family="Arial,Helvetica,sans-serif" font-size="13">Premiere Pro · DaVinci Resolve</text>
+<text x="65" y="316" fill="#333" font-family="Arial,Helvetica,sans-serif" font-size="13">Media Encoder · CapCut · FFmpeg</text>
+<path d="M65 338H565" stroke="#b5b5b1"/>
+<g transform="translate(65 354)" fill="#111"><rect x="0" y="18" width="5" height="23"/><rect x="10" y="4" width="5" height="37"/><rect x="20" y="12" width="5" height="29"/><rect x="30" y="0" width="5" height="41"/><rect x="40" y="16" width="5" height="25"/><rect x="50" y="6" width="5" height="35"/><rect x="60" y="13" width="5" height="28"/><rect x="70" y="2" width="5" height="39"/><rect x="80" y="18" width="5" height="23"/><rect x="90" y="8" width="5" height="33"/><rect x="100" y="14" width="5" height="27"/><rect x="110" y="0" width="5" height="41"/><rect x="120" y="12" width="5" height="29"/><rect x="130" y="6" width="5" height="35"/><rect x="140" y="18" width="5" height="23"/></g>
+<text x="565" y="399" text-anchor="end" fill="#555" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="2">CUT / SYNC / FINISH</text>
+<!-- 3d panel -->
+<rect x="612" y="207" width="540" height="215" fill="#eeeeeb" stroke="#111" stroke-width="1.4"/>
+<rect x="612" y="207" width="540" height="34" fill="#080808"/>
+<text x="629" y="229" fill="#f1f1ee" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="2">02 / 3D + VFX</text>
+<text x="629" y="270" fill="#111" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="900">Blender · Houdini · Unreal Engine</text>
+<text x="629" y="296" fill="#333" font-family="Arial,Helvetica,sans-serif" font-size="13">Marvelous Designer · Quixel Bridge</text>
+<text x="629" y="318" fill="#333" font-family="Arial,Helvetica,sans-serif" font-size="13">Cinema 4D · Nuke · EmberGen</text>
+<text x="629" y="340" fill="#333" font-family="Arial,Helvetica,sans-serif" font-size="13">TouchDesigner · SynthEyes · Substance 3D</text>
+<path d="M629 357H1128" stroke="#b5b5b1"/>
+<g transform="translate(634 365)" fill="none" stroke="#111"><path d="M0 0H125M0 12H125M0 24H125M0 36H125M0 48H125M0 0V48M25 0V48M50 0V48M75 0V48M100 0V48M125 0V48" stroke-width=".8" opacity=".55"/><path d="M168 9C190 -1 209 8 214 25C219 40 203 48 188 40C175 34 172 19 183 11C194 4 209 14 210 25" stroke-width="2"/><path d="M235 40L259 1L283 40Z" stroke-width="1.4"/><path d="M235 40L283 40L259 1L251 29L270 29Z" stroke-width=".8"/></g>
+<!-- design panel -->
+<rect x="48" y="444" width="540" height="260" fill="#eeeeeb" stroke="#111" stroke-width="1.4"/>
+<rect x="48" y="444" width="540" height="34" fill="#080808"/>
+<text x="65" y="466" fill="#f1f1ee" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="2">03 / DESIGN + ART DIRECTION</text>
+<text x="65" y="511" fill="#111" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="900">Photoshop · Illustrator · Krita</text>
+<text x="65" y="537" fill="#333" font-family="Arial,Helvetica,sans-serif" font-size="14">Clip Studio Paint · PureRef · Framer</text>
+<path d="M65 560H565" stroke="#b5b5b1"/>
+<rect x="65" y="580" width="137" height="80" fill="#111"/><rect x="65" y="580" width="137" height="80" fill="url(#halftone)"/>
+<path d="M84 645C95 611 116 590 133 606C150 623 172 615 184 592" fill="none" stroke="#eee" stroke-width="8"/>
+<circle cx="170" cy="600" r="6" fill="#eee"/>
+<text x="220" y="594" fill="#555" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="1.7">VISUAL EXPLORATION</text>
+<text x="220" y="616" fill="#111" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700">ComfyUI · Sora · Higgsfield</text>
+<text x="220" y="638" fill="#333" font-family="Arial,Helvetica,sans-serif" font-size="12">Weavy · Nano Banana</text>
+<!-- dev panel -->
+<rect x="612" y="444" width="540" height="260" fill="#eeeeeb" stroke="#111" stroke-width="1.4"/>
+<rect x="612" y="444" width="540" height="34" fill="#080808"/>
+<text x="629" y="466" fill="#f1f1ee" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="2">04 / CREATIVE DEVELOPMENT</text>
+<text x="629" y="511" fill="#111" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="900">TypeScript · JavaScript · Python · Lua</text>
+<text x="629" y="538" fill="#333" font-family="Arial,Helvetica,sans-serif" font-size="13">HTML / CSS · React · Tailwind CSS · Vite</text>
+<text x="629" y="563" fill="#333" font-family="Arial,Helvetica,sans-serif" font-size="13">ExtendScript · Git / GitHub · REST APIs</text>
+<text x="629" y="588" fill="#333" font-family="Arial,Helvetica,sans-serif" font-size="13">Supabase · Vercel · GitHub Pages</text>
+<path d="M629 610H1128" stroke="#b5b5b1"/>
+<g transform="translate(629 629)" fill="#111"><rect x="0" y="0" width="32" height="32"/><rect x="40" y="0" width="32" height="32"/><rect x="80" y="0" width="32" height="32"/><rect x="120" y="0" width="32" height="32"/><rect x="160" y="0" width="32" height="32"/></g>
+<g fill="#eee" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="700" text-anchor="middle"><text x="645" y="649">TS</text><text x="685" y="649">JS</text><text x="725" y="649">PY</text><text x="765" y="649">LU</text><text x="805" y="649">CSS</text></g>
+<text x="1149" y="733" text-anchor="end" fill="#555" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="2">TOOLS SERVE THE VISION / IVX</text>
+<text x="48" y="733" fill="#555" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="2">BLACK INK / PAPER / GRAIN</text>
+</svg>
