@@ -230,6 +230,12 @@ I use code to build user-facing tools, connect services, automate repetitive tas
 
 <p align="center">
 
+<strong>ARABIC</strong> &nbsp; / &nbsp; <strong>ENGLISH</strong> &nbsp; / &nbsp; <strong>RUSSIAN</strong>
+
+</p>
+
+<p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=64r3al&style=flat-square&color=111111&label=PROFILE+VIEWS" alt="Public GitHub profile-view counter" />
 
 </p>
@@ -310,12 +316,6 @@ My working principles are simple: **intent over decoration, clarity over clutter
 **For collaborations:** video editing, motion graphics, VFX/compositing, 3D/CGI, graphic design, creative tools, workflow automation, and web interfaces.
 
 For a project inquiry, include the goal, references, scope, delivery format, and deadline.
-
-<p align="center">
-
-<strong>ARABIC</strong> &nbsp; / &nbsp; <strong>ENGLISH</strong> &nbsp; / &nbsp; <strong>RUSSIAN</strong>
-
-</p>
 
 <p align="center">
 
