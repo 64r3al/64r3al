@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-royal-banner.svg" alt="IVX — Image, Motion, Form. Monochrome editorial identity for video editing, VFX, and 3D CGI." />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-royal-banner.svg" alt="IVX — Image, Motion, Form. Monochrome portfolio identity for editing, VFX, and 3D CGI." />
 
-<br/><br/>
+<br/>
 
-<a href="https://github.com/64r3al?tab=repositories"><img src="https://img.shields.io/badge/ARCHIVE-EXPLORE%20PROJECTS-111111?style=for-the-badge&labelColor=eeeeec&logo=github&logoColor=111111" alt="Explore projects" /></a>
+<a href="https://github.com/64r3al?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-PUBLIC%20PROJECTS-111111?style=for-the-badge&labelColor=eeeeec&logo=github&logoColor=111111" alt="Explore public projects" /></a>
 <a href="mailto:ivxrxfx@gmail.com"><img src="https://img.shields.io/badge/STUDIO-CONTACT-111111?style=for-the-badge&labelColor=eeeeec&logo=gmail&logoColor=111111" alt="Contact IVX" /></a>
 
 </div>
@@ -19,117 +19,193 @@
 
 ### Image. Motion. Form.
 
-**VIDEO EDITING · VFX / COMPOSITING · 3D / CGI · MOTION DESIGN · CINEMATOGRAPHY**
+**VIDEO EDITING · VFX / COMPOSITING · 3D / CGI · MOTION DESIGN · CREATIVE TOOLS**
 
 </div>
 
-I work where **story, atmosphere, and craft** meet. My practice moves between the rhythm of an edit, the construction of a visual effect, and the details that make a digital image feel tangible.
+I'm an independent, self-taught creator working between **visual storytelling and creative technology**. My focus is the craft behind the image: rhythm, composition, atmosphere, lighting, motion, and the systems that make an idea possible.
 
-Self-taught and production-minded, I learn by making, testing, and refining. The goal is not to use the most tools; it is to choose the right process for the image, the feeling, and the final delivery.
+Some projects end in a finished frame. Others become tools, interfaces, or complete products. I like working across the whole process—from the first visual idea to a usable, carefully finished result.
+
+| **66** | **15** | **06** |
+|:---:|:---:|:---:|
+| Caption style presets in Pro Caption AE | Motion types built for After Effects | Languages supported by NOOR |
 
 ---
 
-## 02 / SELECTED PROJECTS
+## 02 / FEATURED WORK
 
-Project covers below are original editorial illustrations created for this page; open each project for its source, features, and implementation details.
+These are the strongest public projects from my GitHub—selected for their depth, practical use, and range across creative software, product design, and visual communication.
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/64r3al/Pro-Caption-AE"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/project-pro-caption.svg" alt="Editorial cover artwork for Pro Caption AE, using waveform bars and kinetic caption typography." /></a>
-      <h3>01 — Pro Caption AE</h3>
-      <p><strong>AFTER EFFECTS / MOTION WORKFLOW</strong></p>
-      <p>Transcribes audio and creates editable, word-synced animated captions. Includes 66 style presets, 15 motion types, and frame-aware timing.</p>
-      <p><a href="https://github.com/64r3al/Pro-Caption-AE">VIEW PROJECT ↗</a> · <a href="https://github.com/64r3al/Pro-Caption-AE/releases/latest">LATEST RELEASE ↗</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/64r3al/Map-Music-Player"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/project-map-music.svg" alt="Editorial cover artwork for Map Music Player, using a record-like form and audio waveforms." /></a>
-      <h3>02 — Map Music Player</h3>
-      <p><strong>FIVEM / NUI / AUDIO INTERACTION</strong></p>
-      <p>An in-game music system with a responsive interface, playback controls, and xsound integration.</p>
-      <p><a href="https://github.com/64r3al/Map-Music-Player">VIEW PROJECT ↗</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/64r3al/Discord-Role-Nickname"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/project-discord-manager.svg" alt="Editorial cover artwork for Discord Role and Nickname Manager, visualizing persistent member state and restoration." /></a>
-      <h3>03 — Discord Role / Nickname Manager</h3>
-      <p><strong>PYTHON / COMMUNITY INFRASTRUCTURE</strong></p>
-      <p>Tracks member roles and nicknames, restores saved state when members return, and includes permissions and audit-oriented tooling.</p>
-      <p><a href="https://github.com/64r3al/Discord-Role-Nickname">VIEW PROJECT ↗</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/64r3al/AURA-Capital-Engine"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/project-aura.svg" alt="Editorial cover artwork for AURA Capital Engine, visualizing revenue, distribution rules, and forecasting." /></a>
-      <h3>04 — AURA Capital Engine</h3>
-      <p><strong>SYSTEMS / CASH-FLOW LOGIC</strong></p>
-      <p>A systems-design experiment exploring deterministic revenue allocation and run-rate forecasting.</p>
-      <p><a href="https://github.com/64r3al/AURA-Capital-Engine">VIEW PROJECT ↗</a></p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/64r3al/Pro-Caption-AE"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/project-pro-caption.svg" alt="Original monochrome editorial cover for Pro Caption AE; not a screenshot of the application." /></a>
+
+### 01 — Pro Caption AE
+
+**CREATIVE SOFTWARE / AFTER EFFECTS**
+
+A released After Effects extension that turns audio into editable, word-synced animated captions.
+
+- 66 presets and 15 motion types
+- Word-level transcription with timing refinement
+- Native, editable text layers in After Effects
+- Encrypted storage for the user's Groq API key
+
+**[VIEW SOURCE ↗](https://github.com/64r3al/Pro-Caption-AE)** · **[RELEASE v1.2.0 ↗](https://github.com/64r3al/Pro-Caption-AE/releases/tag/v1.2.0)**
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/64r3al/IVX-Clean"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/project-ivx-clean.svg" alt="Original monochrome editorial cover for IVX Clean; not a screenshot of the application." /></a>
+
+### 02 — IVX Clean
+
+**WINDOWS APP / SAFETY-FIRST ENGINEERING**
+
+A free, open-source Windows cleaner designed around a simple rule: only explicitly approved cleanup targets can be considered.
+
+- Allowlist-only cleaning rules
+- Read-only scan before review and confirmation
+- Quarantine and restore options for caution items
+- Safety checks designed to protect personal files and system-critical paths
+
+**[VIEW SOURCE ↗](https://github.com/64r3al/IVX-Clean)** · **[RELEASE v1.0.0 ↗](https://github.com/64r3al/IVX-Clean/releases/tag/v1.0.0)** · [UI design references ↗](https://github.com/64r3al/IVX-Clean/tree/main/design)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/64r3al/GAZA"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/project-noor.svg" alt="Original monochrome editorial cover for NOOR; not a screenshot of the website." /></a>
+
+### 03 — NOOR / A Light for Every Child
+
+**PUBLIC INFORMATION / MULTILINGUAL WEB**
+
+A deployed humanitarian information project built around source-linked information, accessibility, and clear routes to official support resources.
+
+- English, Arabic, French, Spanish, Portuguese, and German
+- Arabic right-to-left layout support
+- Searchable source archive with topic, date, location, and status filters
+- Interactive source map and accessible, reduced-motion-aware interfaces
+
+**[OPEN LIVE SITE ↗](https://gaza-zeta.vercel.app/)** · **[VIEW SOURCE ↗](https://github.com/64r3al/GAZA)** · [Evidence archive ↗](https://gaza-zeta.vercel.app/evidence-archive.html)
+
+<sub>NOOR is an independent project, not affiliated with or endorsed by UNICEF; it does not collect donations or payment details.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/64r3al/Map-Music-Player"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/project-map-music.svg" alt="Original monochrome editorial cover for Map Music Player; not a screenshot of the application." /></a>
+
+### 04 — Map Music Player
+
+**FIVEM / NUI / AUDIO INTERACTION**
+
+An in-game music system exploring how interface design, playback controls, and audio can fit into a game environment.
+
+- Play, pause, resume, and stop controls
+- Live volume control
+- Responsive NUI interface
+- xsound integration
+
+**[VIEW SOURCE ↗](https://github.com/64r3al/Map-Music-Player)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/64r3al/Discord-Role-Nickname"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/project-discord-manager.svg" alt="Original monochrome editorial cover for Discord Role and Nickname Manager; not a screenshot of the application." /></a>
+
+### 05 — Discord Role / Nickname Manager
+
+**AUTOMATION / COMMUNITY INFRASTRUCTURE**
+
+A Discord bot system for tracking member roles and nicknames and restoring saved state when members rejoin.
+
+- Persistent member records
+- Role hierarchy and permission validation
+- Restoration workflow and audit logging
+
+**[VIEW SOURCE ↗](https://github.com/64r3al/Discord-Role-Nickname)**
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-colophon.svg" alt="IVX editorial statement: Build with intent. Finish with care." />
+</div>
+
+### More from the archive
+
+Other public experiments include **AURA Capital Engine**, a cash-flow allocation concept, plus smaller utilities and technical explorations.
+
+I keep the featured list focused on projects that best demonstrate useful outcomes, rather than filling it with every repository.
+
+**[BROWSE ALL PUBLIC REPOSITORIES ↗](https://github.com/64r3al?tab=repositories)**
+
+</td>
+</tr>
 </table>
 
-<div align="center">
+---
 
-<a href="https://github.com/64r3al?tab=repositories">VIEW THE FULL ARCHIVE ↗</a>
+## 03 / THE TOOLKIT
 
-</div>
+| WORKFLOW | TOOLS |
+|---|---|
+| **EDIT / FINISH** | After Effects · Premiere Pro · DaVinci Resolve · Media Encoder · CapCut · FFmpeg |
+| **3D / CGI** | Blender · Houdini · Cinema 4D · Unreal Engine · Marvelous Designer · Geometry Nodes |
+| **VFX / PIPELINE** | Nuke · EmberGen · TouchDesigner · SynthEyes · Substance 3D · ComfyUI |
+| **ART / DESIGN** | Photoshop · Illustrator · Krita · Clip Studio Paint · PureRef · Framer |
+| **CREATIVE DEVELOPMENT** | TypeScript · JavaScript · React · Python · Lua · HTML / CSS · Git |
+| **AUDIO / INTERACTIVE** | FL Studio · FiveM NUI · Discord API |
+
+The tools change from project to project. The priorities stay the same: a clear image, deliberate choices, and a clean finish.
 
 ---
 
-## 03 / THE TOOL INDEX
+## 04 / HOW I WORK
 
-**EDIT / FINISH**  
-After Effects · Premiere Pro · DaVinci Resolve · Media Encoder · CapCut · FFmpeg
+**01 — FIND THE INTENT**  
+Understand the message, reference, mood, constraints, and final use.
 
-**BUILD / SIMULATE**  
-Blender · Houdini · Cinema 4D · Unreal Engine · Marvelous Designer · Nuke · Geometry Nodes · EmberGen
+**02 — BUILD THE RIGHT PIPELINE**  
+Choose the tools and methods that serve the shot or product—not the other way around.
 
-**DESIGN / DEVELOP**  
-Photoshop · Illustrator · Krita · Clip Studio Paint · Framer · TypeScript · JavaScript · Python · Lua
+**03 — REFINE THE DETAILS**  
+Check timing, composition, legibility, edge quality, safety, accessibility, and consistency.
 
-**EXPERIMENT / PIPELINE**  
-TouchDesigner · ComfyUI · Substance 3D · PureRef · SynthEyes · FL Studio · OpenIV
-
-*The tools change from project to project. The priorities stay the same: a clear image, deliberate choices, and a clean finish.*
+**04 — DELIVER SOMETHING USABLE**  
+A finished visual, a working tool, clear documentation, and a straightforward handoff.
 
 ---
 
-## 04 / THE METHOD
+## 05 / WHAT CONNECTS THE WORK
 
-<div align="center">
+Across editing, 3D, desktop applications, and web projects, the same principles return:
 
-**REFERENCE → CONCEPT → EDIT → BUILD → COMPOSITE → GRADE → SOUND → DELIVER**
-
-</div>
-
-Some projects begin in the timeline; others begin in 3D, design, or a technical experiment. I keep the workflow flexible and let the needs of the final image determine the process.
-
----
-
-## 05 / THE LEDGER
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=64r3al&bg_color=eeeeec&color=111111&line=555555&point=111111&area=true&hide_border=true" alt="GitHub contribution activity graph in a monochrome theme" />
-
-</div>
+- **Visual intent:** every element has a reason to be there.
+- **Systems thinking:** the workflow should be understandable, repeatable, and maintainable.
+- **Safety and clarity:** useful features should not come at the cost of trust.
+- **Careful finishing:** details matter—from a clean edge in a composite to a verified source link in a web archive.
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-divider.svg" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-colophon.svg" alt="IVX — Build with intent. Finish with care." />
 
-### IVX / HOUSE OF IVX
+<br/><br/>
 
-*Visuals are the language. Craft is the difference.*
-
-<br/>
-
-<a href="https://github.com/64r3al?tab=repositories">ARCHIVE</a>
+<a href="https://github.com/64r3al?tab=repositories">PUBLIC ARCHIVE</a>
 &nbsp;&nbsp; / &nbsp;&nbsp;
 <a href="mailto:ivxrxfx@gmail.com">STUDIO / CONTACT</a>
 &nbsp;&nbsp; / &nbsp;&nbsp;
-<a href="https://github.com/64r3al">GITHUB</a>
+<a href="https://github.com/64r3al">GITHUB PROFILE</a>
 
 </div>
