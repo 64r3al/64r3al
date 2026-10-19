@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-royal-banner.svg" alt="IVX — House of IVX" />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-royal-banner.svg" alt="IVX — House of IVX: video editing, VFX, and 3D / CGI" />
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/64r3al?tab=repositories"><img src="https://img.shields.io/badge/ARCHIVE-EXPLORE%20PROJECTS-10100d?style=for-the-badge&logo=github&logoColor=cdb879&labelColor=070707" /></a>
-<a href="mailto:ivxrxfx@gmail.com"><img src="https://img.shields.io/badge/STUDIO-IVXRXFX-10100d?style=for-the-badge&logo=gmail&logoColor=cdb879&labelColor=070707" /></a>
-<a href="https://github.com/64r3al"><img src="https://komarev.com/ghpvc/?username=64r3al&style=for-the-badge&color=8b6a2e&label=VISITORS&labelColor=070707" /></a>
+<a href="https://github.com/64r3al?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-EXPLORE%20THE%20ARCHIVE-10100d?style=for-the-badge&logo=github&logoColor=cdb879&labelColor=070707" alt="Explore projects" /></a>
+<a href="mailto:ivxrxfx@gmail.com"><img src="https://img.shields.io/badge/STUDIO-GET%20IN%20TOUCH-10100d?style=for-the-badge&logo=gmail&logoColor=cdb879&labelColor=070707" alt="Contact the studio" /></a>
+<a href="https://github.com/64r3al"><img src="https://komarev.com/ghpvc/?username=64r3al&style=for-the-badge&color=8b6a2e&label=VISITORS&labelColor=070707" alt="Profile visitors" /></a>
 
 </div>
 
@@ -20,21 +20,22 @@
 
 <div align="center">
 
-**I don't separate art from technology.**
+### Visual storytelling, built frame by frame.
+
+*Video Editing · Visual Effects · 3D / CGI · Motion Design · Cinematography*
 
 </div>
 
-I work between **video editing, VFX, 3D / CGI, motion design, digital art and software**.
+I work where **story, atmosphere, and craft** meet. My practice spans editing, compositing, 3D imagery, motion design, and visual development—from finding the rhythm of a cut to building the elements that make a shot feel like it belongs to a world.
 
-The common thread is simple: take an idea, give it a visual language, then build the system behind it when the idea needs more than a timeline can provide.
+I’m self-taught and production-minded: I learn by making, testing, and refining. The goal is not to use the most tools; it is to choose the right process for the image, the feeling, and the final delivery.
 
-~~~text
-CRAFT       →  EDITING / VFX / MOTION / 3D / DESIGN
-ENGINE      →  AFTER EFFECTS / BLENDER / HOUDINI / C4D / UNREAL
-ART         →  PHOTOSHOP / ILLUSTRATOR / KRITA / CLIP STUDIO
-SYSTEMS     →  TYPESCRIPT / JAVASCRIPT / PYTHON / LUA
-EXPERIMENTS →  AI / PROCEDURAL / SIMULATION / AUTOMATION
-~~~
+| Discipline | Focus |
+|---|---|
+| **Video Editing & Motion** | Rhythm, pacing, transitions, typography, sound, and visual flow |
+| **VFX & Compositing** | Integration, atmosphere, cleanup, lighting continuity, and finishing |
+| **3D / CGI** | Modeling, materials, procedural workflows, environments, lighting, and simulation |
+| **Visual Direction & Cinematography** | Composition, framing, color, mood, and visual cohesion |
 
 ---
 
@@ -42,54 +43,36 @@ EXPERIMENTS →  AI / PROCEDURAL / SIMULATION / AUTOMATION
 
 > **Every project is a position. Every decision changes the board.**
 
-| Piece | Role |
+| Piece | The IVX principle |
 |---|---|
-| ♔ **KING** | Creative direction — where the piece is going |
-| ♕ **QUEEN** | Visual systems — the strongest tool in the set |
-| ♜ **ROOK** | Engineering — structure, reliability, automation |
-| ♞ **KNIGHT** | Experiments — unusual workflows and technical ideas |
-| ♝ **BISHOP** | Detail — composition, motion, timing, polish |
-| ♙ **PAWN** | Iteration — small changes that become the final work |
+| ♔ **KING** | **Intent** — understand what the piece should make people feel |
+| ♕ **QUEEN** | **Visual language** — make every element serve the frame |
+| ♜ **ROOK** | **Structure** — build a workflow that stays reliable under pressure |
+| ♞ **KNIGHT** | **Experimentation** — explore unusual techniques and new possibilities |
+| ♝ **BISHOP** | **Craft** — refine timing, edges, lighting, and detail |
+| ♙ **PAWN** | **Iteration** — small, deliberate improvements create the final result |
 
 ---
 
 ## III. SELECTED WORK
 
-### ♛ GROQ CAPTIONS
-**After Effects / Groq / Whisper**
+### ♛ [PRO CAPTION AE](https://github.com/64r3al/Pro-Caption-AE)
+**After Effects · Motion Design · Caption Workflow**
 
-A creative-production tool that turns spoken audio into synchronized animated captions inside After Effects.
+An After Effects panel that transcribes audio and creates editable, word-synced animated captions. It includes 66 style presets, 15 motion types, and frame-aware timing—built to make a repetitive editing task more controllable and expressive.
 
-**Stack:** TypeScript · React · CEP · ExtendScript · FFmpeg · Groq
+[**VIEW PROJECT →**](https://github.com/64r3al/Pro-Caption-AE) · [Releases](https://github.com/64r3al/Pro-Caption-AE/releases/latest)
 
-[ENTER THE PROJECT →](https://github.com/64r3al/Groq-Captions)
+### ♜ [MAP MUSIC PLAYER](https://github.com/64r3al/Map-Music-Player)
+**FiveM · Interface Design · Audio Interaction**
 
-### ♜ MAP MUSIC PLAYER
-**FiveM / NUI / Lua**
+An in-game music system with a responsive interface, playback controls, and xsound integration. A side project exploring the meeting point between interactive UI, sound, and game environments.
 
-An in-game music system combining gameplay interaction, audio playback and a custom UI.
+[**VIEW PROJECT →**](https://github.com/64r3al/Map-Music-Player)
 
-**Stack:** Lua · JavaScript · HTML · CSS · FiveM NUI
+### Other experiments
 
-[ENTER THE PROJECT →](https://github.com/64r3al/Map-Music-Player)
-
-### ♞ DISCORD ROLE / NICKNAME MANAGER
-**Automation / Community Infrastructure**
-
-Persistent member state, restoration, permissions and audit-oriented Discord tooling.
-
-**Stack:** Python · discord.py · MongoDB · Discord API
-
-[ENTER THE PROJECT →](https://github.com/64r3al/Discord-Role-Nickname)
-
-### ♝ AURA CAPITAL ENGINE
-**Systems / Product Logic**
-
-A systems experiment around deterministic cash-flow distribution and run-rate forecasting.
-
-**Focus:** Automation · Rules · Forecasting · Product Systems
-
-[ENTER THE PROJECT →](https://github.com/64r3al/AURA-Capital-Engine)
+[Discord Role / Nickname Manager](https://github.com/64r3al/Discord-Role-Nickname) · [AURA Capital Engine](https://github.com/64r3al/AURA-Capital-Engine) · [Browse all repositories](https://github.com/64r3al?tab=repositories)
 
 ---
 
@@ -101,57 +84,25 @@ A systems experiment around deterministic cash-flow distribution and run-rate fo
 
 <div align="center">
 
-### THE ICON WALL
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-tool-vault.svg" alt="IVX production tool vault" />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-tool-vault.svg" alt="IVX production tool vault: editing, compositing, 3D / CGI, art, design, simulation, and audio tools" />
 
 </div>
 
-### ♜ CODE / CREATIVE ENGINEERING
-
-<p>
-<img src="https://skillicons.dev/icons?i=typescript,javascript,python,lua,react,nodejs,html,css,git,github&perline=10" />
-</p>
-
-**TypeScript** · **JavaScript** · **Python** · **Lua** · **React** · **Node.js** · **HTML** · **CSS** · **Git**
-
-
-</div>
+Tools are part of the craft—not the identity. My core workflow moves between **After Effects, Blender, Houdini, DaVinci Resolve, Photoshop, and Unreal Engine**, supported by additional tools for design, compositing, simulation, sound, and procedural work.
 
 ---
 
-## V. THE PRODUCTION PHILOSOPHY
+## V. THE PRODUCTION METHOD
 
-~~~text
-A VISUAL WORKFLOW IS NOT ONE TOOL.
+A strong result comes from the whole pipeline, not one impressive effect.
 
-EDIT
-  ↓
-COMPOSITE
-  ↓
-DESIGN
-  ↓
-MODEL
-  ↓
-SIMULATE
-  ↓
-TEXTURE
-  ↓
-ANIMATE
-  ↓
-LIGHT
-  ↓
-RENDER
-  ↓
-GRADE
-  ↓
-DELIVER
+<div align="center">
 
-The software changes.
-The eye stays the same.
-~~~
+**REFERENCE → CONCEPT → EDIT → BUILD → COMPOSITE → GRADE → SOUND → DELIVER**
+
+</div>
+
+I keep the workflow flexible: some projects begin in the timeline, others begin in 3D, design, or a technical experiment. The process follows the needs of the shot—not a fixed checklist.
 
 ---
 
@@ -159,76 +110,49 @@ The eye stays the same.
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=64r3al&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0b0a08&title_color=cdb879&icon_color=cdb879&text_color=d9d2c2" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=64r3al&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0b0a08&title_color=cdb879&icon_color=cdb879&text_color=d9d2c2" alt="GitHub contribution statistics" />
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=64r3al&layout=compact&langs_count=8&hide_border=true&bg_color=0b0a08&title_color=cdb879&text_color=d9d2c2" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=64r3al&layout=compact&langs_count=8&hide_border=true&bg_color=0b0a08&title_color=cdb879&text_color=d9d2c2" alt="Most used languages on GitHub" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=64r3al&theme=dark&hide_border=true&background=0b0a08&ring=cdb879&fire=9e7b37&currStreakLabel=cdb879" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=64r3al&theme=dark&hide_border=true&background=0b0a08&ring=cdb879&fire=9e7b37&currStreakLabel=cdb879" alt="GitHub contribution streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=64r3al&bg_color=0B0A08&color=CDB879&line=8D7139&point=EEE6D4&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 
 </div>
 
 ---
 
-## VII. THE ARCHIVE
+## VII. WHAT I’M EXPLORING
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=64r3al&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&column=7" />
-
-</div>
-
----
-
-## VIII. THE BOARD
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=64r3al&bg_color=0B0A08&color=CDB879&line=8D7139&point=EEE6D4&area=true&hide_border=true" />
-
-</div>
-
----
-
-## IX. THE NEXT MOVE
-
-~~~text
-CURRENT POSITION
-
-01  Creative software
-02  AI-assisted editing workflows
-03  VFX / 3D production
-04  Procedural experiments
-05  Digital art & design
-06  Simulation & environments
-07  Interactive systems
-08  Audio / music / media
-
-OBJECTIVE
-
-Build things that feel like they belong to a world —
-not just another folder on a hard drive.
-~~~
+- **More convincing images:** lighting, look development, atmosphere, and composition.
+- **Stronger motion:** timing, transitions, kinetic typography, and visual rhythm.
+- **Better worlds:** procedural environments, CGI, simulation, and compositing.
+- **Smarter workflows:** creative tools that reduce repetitive work without flattening the art.
 
 ---
 
 <div align="center">
 
-**IVX / HOUSE OF IVX**
+<img width="92%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-divider.svg" alt="" />
 
-*Visuals are the language. Systems are the leverage.*
+### IVX / HOUSE OF IVX
+
+*Visuals are the language. Craft is the difference.*
 
 <br/>
 
-<a href="https://github.com/64r3al">GITHUB</a>
-&nbsp;&nbsp;◆&nbsp;&nbsp;
-<a href="mailto:ivxrxfx@gmail.com">STUDIO</a>
-&nbsp;&nbsp;◆&nbsp;&nbsp;
 <a href="https://github.com/64r3al?tab=repositories">ARCHIVE</a>
+&nbsp;&nbsp;◆&nbsp;&nbsp;
+<a href="mailto:ivxrxfx@gmail.com">STUDIO / CONTACT</a>
+&nbsp;&nbsp;◆&nbsp;&nbsp;
+<a href="https://github.com/64r3al">GITHUB</a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070707,50:3b2d16,100:070707&height=110&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070707,50:3b2d16,100:070707&height=110&section=footer" alt="" />
 
 </div>
