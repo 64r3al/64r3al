@@ -213,6 +213,18 @@ Tools vary by project. This list represents the broader working toolkit, not a c
 
 ## 05 / CREATIVE DEVELOPMENT
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=eeeeeb" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=eeeeeb" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=eeeeeb" alt="Python" />
+<img src="https://img.shields.io/badge/Lua-111111?style=for-the-badge&logo=lua&logoColor=eeeeeb" alt="Lua" />
+<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=eeeeeb" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=eeeeeb" alt="CSS3" />
+<img src="https://img.shields.io/badge/ExtendScript-111111?style=for-the-badge&logo=adobe&logoColor=eeeeeb" alt="ExtendScript" />
+
+</p>
+
 **Languages**  
 TypeScript · JavaScript · Python · Lua · HTML · CSS · ExtendScript
 
@@ -234,12 +246,6 @@ I use code to build user-facing tools, connect services, automate repetitive tas
 
 </p>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=64r3al&style=flat-square&color=111111&label=PROFILE+VIEWS" alt="Public GitHub profile-view counter" />
-
-</p>
-
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-editorial-divider.svg" alt="" />
@@ -249,6 +255,12 @@ I use code to build user-facing tools, connect services, automate repetitive tas
 <a id="ledger"></a>
 
 ## 07 / THE LEDGER — GITHUB ACTIVITY
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=64r3al&style=flat-square&color=111111&label=PROFILE+VIEWS" alt="Public GitHub profile-view counter" />
+
+</p>
 
 <div align="center">
 
