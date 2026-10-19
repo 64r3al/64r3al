@@ -67,7 +67,7 @@ A focused selection across creative software, desktop utilities, multilingual we
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/64r3al/Pro-Caption-AE"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/dark-project-pro-caption.svg" alt="Pro Caption AE editorial project cover" /></a>
+<a href="https://github.com/64r3al/Pro-Caption-AE"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/profile-cover-pro-caption.svg" alt="Pro Caption AE editorial project cover" /></a>
 
 <h3>01 / Pro Caption AE</h3>
 <p><strong>CREATIVE SOFTWARE / AFTER EFFECTS</strong></p>
@@ -77,7 +77,7 @@ A focused selection across creative software, desktop utilities, multilingual we
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/64r3al/IVX-Clean"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/dark-project-ivx-clean.svg" alt="IVX Clean editorial project cover" /></a>
+<a href="https://github.com/64r3al/IVX-Clean"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/profile-cover-ivx-clean.svg" alt="IVX Clean editorial project cover" /></a>
 
 <h3>02 / IVX Clean</h3>
 <p><strong>WINDOWS UTILITY / OPEN SOURCE</strong></p>
@@ -89,7 +89,7 @@ A focused selection across creative software, desktop utilities, multilingual we
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/64r3al/GAZA"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/dark-project-noor.svg" alt="NOOR humanitarian information website project cover" /></a>
+<a href="https://github.com/64r3al/GAZA"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/profile-cover-noor.svg" alt="NOOR humanitarian information website project cover" /></a>
 
 <h3>03 / NOOR — A Light for Every Child</h3>
 <p><strong>MULTILINGUAL WEB / INFORMATION DESIGN</strong></p>
@@ -99,7 +99,7 @@ A focused selection across creative software, desktop utilities, multilingual we
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/64r3al/Map-Music-Player"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/dark-project-map-music.svg" alt="Map Music Player editorial project cover" /></a>
+<a href="https://github.com/64r3al/Map-Music-Player"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/profile-cover-map-music.svg" alt="Map Music Player editorial project cover" /></a>
 
 <h3>04 / Map Music Player</h3>
 <p><strong>FIVEM / NUI / INTERACTION</strong></p>
@@ -111,7 +111,7 @@ A focused selection across creative software, desktop utilities, multilingual we
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/64r3al/Discord-Role-Nickname"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/dark-project-discord-manager.svg" alt="Discord role and nickname manager project cover" /></a>
+<a href="https://github.com/64r3al/Discord-Role-Nickname"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/profile-cover-discord-manager.svg" alt="Discord role and nickname manager project cover" /></a>
 
 <h3>05 / Discord Role / Nickname Manager</h3>
 <p><strong>COMMUNITY AUTOMATION</strong></p>
@@ -121,7 +121,7 @@ A focused selection across creative software, desktop utilities, multilingual we
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/64r3al/AURA-Capital-Engine"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/dark-project-aura.svg" alt="AURA Capital Engine editorial project cover" /></a>
+<a href="https://github.com/64r3al/AURA-Capital-Engine"><img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/profile-cover-aura.svg" alt="AURA Capital Engine editorial project cover" /></a>
 
 <h3>06 / AURA Capital Engine</h3>
 <p><strong>SYSTEM DESIGN / FINANCE CONCEPT</strong></p>
