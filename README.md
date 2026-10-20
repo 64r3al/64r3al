@@ -273,44 +273,47 @@ Tools vary by project. This list represents the broader working toolkit, not a c
 
 ## 05 / CREATIVE DEVELOPMENT
 
-<p align="center">
+A curated view of the languages, frameworks, creative applications, and integrations used across my projects. The icon groups prioritize recognizable, consistent logos instead of fragile one-off badge logos.
 
-<img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=eeeeeb" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=eeeeeb" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=eeeeeb" alt="Python" />
-<img src="https://img.shields.io/badge/Lua-111111?style=for-the-badge&logo=lua&logoColor=eeeeeb" alt="Lua" />
-<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=eeeeeb" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=eeeeeb" alt="CSS3" />
-<img src="https://img.shields.io/badge/ExtendScript-111111?style=for-the-badge&logo=adobe&logoColor=eeeeeb" alt="ExtendScript" />
-
-</p>
-
-**Selected creative stack**
+### 01 / Coding & product stack
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/After%20Effects-111111?style=for-the-badge&logo=adobeaftereffects&logoColor=eeeeeb" alt="Adobe After Effects" />
-<img src="https://img.shields.io/badge/Blender-111111?style=for-the-badge&logo=blender&logoColor=eeeeeb" alt="Blender" />
-<img src="https://img.shields.io/badge/DaVinci%20Resolve-111111?style=for-the-badge&logo=davinciresolve&logoColor=eeeeeb" alt="DaVinci Resolve" />
-<img src="https://img.shields.io/badge/Unreal%20Engine-111111?style=for-the-badge&logo=unrealengine&logoColor=eeeeeb" alt="Unreal Engine" />
-<img src="https://img.shields.io/badge/Houdini-111111?style=for-the-badge&logo=houdini&logoColor=eeeeeb" alt="Houdini" />
-<img src="https://img.shields.io/badge/Photoshop-111111?style=for-the-badge&logo=adobephotoshop&logoColor=eeeeeb" alt="Adobe Photoshop" />
-<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=eeeeeb" alt="React" />
-<img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=eeeeeb" alt="Supabase" />
-<img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=eeeeeb" alt="Vercel" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,lua,html,css,react,tailwind,vite,nodejs,git,github,githubactions,supabase,vercel,postgres,mongodb,discord&amp;theme=dark&amp;perline=9" alt="TypeScript, JavaScript, Python, Lua, HTML, CSS, React, Tailwind CSS, Vite, Node.js, Git, GitHub, GitHub Actions, Supabase, Vercel, PostgreSQL, MongoDB, and Discord." />
 
 </p>
 
-**Languages**  
-TypeScript · JavaScript · Python · Lua · HTML · CSS · ExtendScript
+<p align="center"><sub>LANGUAGES · FRONTEND · VERSION CONTROL · DATA · DEPLOYMENT · INTEGRATIONS</sub></p>
 
-**Frontend and creative-app tooling**  
-React · Tailwind CSS · Vite · Adobe CEP · After Effects expressions · FFmpeg
+**Languages & scripting**  
+TypeScript · JavaScript · Python · Lua · ExtendScript
 
-**APIs, data, and publishing**  
-Groq Whisper API · Gemini API · Discord API · REST APIs · Supabase · Vercel · GitHub Pages
+**Web interfaces**  
+HTML · CSS · JSX / TSX · React · Tailwind CSS · Vite · Node.js
 
-I use code to build user-facing tools, connect services, automate repetitive tasks, and bring design ideas into functioning interfaces.
+**Data & integrations**  
+Supabase / PostgreSQL · MongoDB · REST APIs · Discord API · Groq Whisper API · Gemini API
+
+### 02 / Creative applications
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=ae,ps,ai,pr,blender,unreal,figma,ableton,au,notion&amp;theme=dark&amp;perline=5" alt="Adobe After Effects, Photoshop, Illustrator, Premiere Pro, Blender, Unreal Engine, Figma, Ableton Live, Adobe Audition, and Notion." />
+
+</p>
+
+<p align="center"><sub>EDITING · COMPOSITING · DESIGN · 3D / CGI · AUDIO · PLANNING</sub></p>
+
+**3D, VFX & finishing**  
+Blender · Houdini · Unreal Engine · Cinema 4D · Nuke · EmberGen · TouchDesigner · Marvelous Designer · Substance 3D · SynthEyes · Quixel Bridge
+
+**Design, motion & audio**  
+After Effects · Premiere Pro · DaVinci Resolve · Photoshop · Illustrator · Krita · Clip Studio Paint · Framer · PureRef · FL Studio · Audition · FFmpeg
+
+**Creative tooling & publishing**  
+Adobe CEP · After Effects expressions · GitHub Actions · Vercel · GitHub Pages
+
+I use code to build user-facing tools, connect services, automate repetitive tasks, and bring design ideas into functioning interfaces. Tools vary by project; this is a working toolkit, not a claim of equal specialization in every application.
 
 <a id="languages"></a>
 
