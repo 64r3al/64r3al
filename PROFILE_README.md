@@ -327,7 +327,7 @@ A practical directory of the creative applications I use across editing, design,
 <img height="20" width="20" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/logos/substance-3d-painter.svg" alt="" />&nbsp;<img height="28" src="https://img.shields.io/badge/Substance%203D%20Painter-111111?style=for-the-badge" alt="Substance 3D Painter application badge" />
 <img height="20" width="20" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/logos/substance-3d-designer.svg" alt="" />&nbsp;<img height="28" src="https://img.shields.io/badge/Substance%203D%20Designer-111111?style=for-the-badge" alt="Substance 3D Designer application badge" />
 <img height="28" src="https://img.shields.io/badge/Daz%20Studio-111111?style=for-the-badge" alt="Daz Studio application badge" />
-<img height="24" src="https://borisfx-com-res.cloudinary.com/image/upload/v1772151178/Marketing/2026%20Logos/SynthEyes/Horizontal/Light/SVG/SynthEyes_Horizontal.png" alt="SynthEyes official product logo" />
+<img height="28" src="https://img.shields.io/badge/SynthEyes-111111?style=for-the-badge" alt="SynthEyes application badge" />
 <img height="28" src="https://img.shields.io/badge/Quixel%20Bridge-111111?style=for-the-badge" alt="Quixel Bridge application badge" />
 <img height="20" width="20" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/logos/blender.svg" alt="" />&nbsp;<img height="28" src="https://img.shields.io/badge/Geometry%20Nodes-111111?style=for-the-badge" alt="Geometry Nodes application badge" />
 
