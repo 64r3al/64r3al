@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-banner.svg" alt="64R3AL / IVX — looping animated monochrome banner with bold editorial typography, a moving technical-orbit marker, and a four-stage creative workflow rail." />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-banner.svg" alt="64R3AL / IVX — monochrome editorial banner with bold typography, a fine macro wing-vein texture, subtle halftone grain, and a restrained moving underline highlight." />
 
 </div>
 
