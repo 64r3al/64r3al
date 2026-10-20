@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-banner.svg" alt="64R3AL / IVX — monochrome editorial banner with bold typography, a fine macro wing-vein texture, subtle halftone grain, and a restrained moving underline highlight." />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-banner.svg?v=2" alt="64R3AL / IVX — monochrome editorial banner with bold typography, a fine macro wing-vein texture, subtle halftone grain, and a restrained moving underline highlight." />
 
 </div>
 
