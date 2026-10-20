@@ -273,7 +273,7 @@ Tools vary by project. This list represents the broader working toolkit, not a c
 
 ## 05 / CREATIVE DEVELOPMENT
 
-A curated view of the languages, frameworks, creative applications, and integrations used across my projects. The icon groups prioritize recognizable, consistent logos instead of fragile one-off badge logos.
+A focused selection of the creative software, languages, and product tools behind my editing, 3D/VFX, and interactive work.
 
 ### 01 / Coding & product stack
 
