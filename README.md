@@ -184,11 +184,7 @@ A focused selection of public projects. The images are original editorial projec
 
 <p align="center">
 
-<a href="https://github.com/64r3al/graphicdesign">GRAPHIC DESIGN ↗</a>
-&nbsp;&nbsp; / &nbsp;&nbsp;
-<a href="https://github.com/64r3al/github-achievement-lab">GITHUB ACHIEVEMENT LAB ↗</a>
-&nbsp;&nbsp; / &nbsp;&nbsp;
-<a href="https://github.com/64r3al?tab=repositories">ALL PUBLIC REPOSITORIES ↗</a>
+<a href="https://github.com/64r3al?tab=repositories"><strong>EXPLORE ALL PUBLIC REPOSITORIES ↗</strong></a>
 
 </p>
 
