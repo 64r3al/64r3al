@@ -296,24 +296,35 @@ Supabase / PostgreSQL · MongoDB · REST APIs · Discord API · Groq Whisper API
 
 ### 02 / Creative applications
 
+A broader view of the applications I use across editing, design, 3D/VFX, audio, and AI-assisted visual workflows. The logo grid uses recognizable icons where the library has a supported mark; specialist tools are included in the categorized directory below.
+
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=ae,ps,ai,pr,blender,unreal,figma,ableton,au,notion&amp;theme=dark&amp;perline=5" alt="Adobe After Effects, Photoshop, Illustrator, Premiere Pro, Blender, Unreal Engine, Figma, Ableton Live, Adobe Audition, and Notion." />
+<img src="https://skillicons.dev/icons?i=ae,pr,davinci,ps,ai,animate,indesign,lightroom,xd,bridge,au,blender,unreal,figma,canva,gimp,sketchup,ffmpeg,ableton,notion,obsidian,chatgpt,gemini&amp;theme=dark&amp;perline=8" alt="Creative applications and production tools: After Effects, Premiere Pro, DaVinci Resolve, Photoshop, Illustrator, Animate, InDesign, Lightroom, XD, Bridge, Audition, Blender, Unreal Engine, Figma, Canva, GIMP, SketchUp, FFmpeg, Ableton Live, Notion, Obsidian, ChatGPT, and Gemini." />
 
 </p>
 
-<p align="center"><sub>EDITING · COMPOSITING · DESIGN · 3D / CGI · AUDIO · PLANNING</sub></p>
+<p align="center"><sub>EDIT & FINISH · DESIGN · 3D / CGI · AUDIO · CREATIVE WORKFLOW · AI-ASSISTED IDEATION</sub></p>
 
-**3D, VFX & finishing**  
-Blender · Houdini · Unreal Engine · Cinema 4D · Nuke · EmberGen · TouchDesigner · Marvelous Designer · Substance 3D · SynthEyes · Quixel Bridge
+**01 / Editing, motion & delivery**  
+Adobe After Effects · Adobe Premiere Pro · DaVinci Resolve · CapCut · Adobe Media Encoder · FFmpeg
 
-**Design, motion & audio**  
-After Effects · Premiere Pro · DaVinci Resolve · Photoshop · Illustrator · Krita · Clip Studio Paint · Framer · PureRef · FL Studio · Audition · FFmpeg
+**02 / 3D, CGI, simulation & compositing**  
+Blender (including Geometry Nodes) · Houdini · Unreal Engine · Cinema 4D · Nuke · EmberGen · TouchDesigner · Marvelous Designer · Substance 3D · SynthEyes
 
-**Creative tooling & publishing**  
-Adobe CEP · After Effects expressions · GitHub Actions · Vercel · GitHub Pages
+**03 / Design, illustration & art direction**  
+Adobe Photoshop · Adobe Illustrator · Krita · Clip Studio Paint · Framer · Figma · PureRef · Adobe Bridge · Quixel Bridge
 
-I use code to build user-facing tools, connect services, automate repetitive tasks, and bring design ideas into functioning interfaces. Tools vary by project; this is a working toolkit, not a claim of equal specialization in every application.
+**04 / Audio & sound workflow**  
+FL Studio · Adobe Audition · FFmpeg
+
+**05 / AI-assisted visual exploration**  
+ComfyUI · Sora · Higgsfield · Weavy · Nano Banana
+
+**06 / Creative scripting & production support**  
+ExtendScript · Adobe CEP extensions · After Effects expressions · Git / GitHub · GitHub Actions · Vercel · GitHub Pages
+
+I use these tools to move from concept and visual direction through production, refinement, automation, and delivery. The list reflects my working toolkit across different projects—not a claim of equal specialization in every application.
 
 <a id="languages"></a>
 
