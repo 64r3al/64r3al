@@ -296,79 +296,68 @@ Supabase / PostgreSQL · MongoDB · REST APIs · Discord API · Groq Whisper API
 
 ### 02 / Creative applications
 
-A practical directory of the creative applications I use across editing, design, 3D/VFX, audio, and AI-assisted visual workflows. Branded icons are used where reliably available; every specialist tool also gets a readable label so it never disappears from the grid.
+A curated toolkit for editing, motion, 3D/VFX, design, audio, and AI-assisted visual development. Every badge uses the same dimensions and palette; verified logo marks are included directly in the badge asset so icons and labels stay aligned.
 
 **01 / Editing, motion & delivery**
 
-<p>
-
-<img height="20" width="20" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/logos/after-effects.svg" alt="" />&nbsp;<img height="28" src="https://img.shields.io/badge/After%20Effects-111111?style=for-the-badge" alt="After Effects application badge" />
-<img height="20" width="20" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/logos/premiere-pro.svg" alt="" />&nbsp;<img height="28" src="https://img.shields.io/badge/Premiere%20Pro-111111?style=for-the-badge" alt="Premiere Pro application badge" />
-<img height="28" src="https://img.shields.io/badge/DaVinci%20Resolve-111111?style=for-the-badge&amp;logo=davinciresolve&amp;logoColor=eeeeeb" alt="DaVinci Resolve application badge" />
-<img height="20" width="20" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/logos/capcut.svg" alt="" />&nbsp;<img height="28" src="https://img.shields.io/badge/CapCut-111111?style=for-the-badge" alt="CapCut application badge" />
-<img height="20" width="20" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/logos/media-encoder.svg" alt="" />&nbsp;<img height="28" src="https://img.shields.io/badge/Media%20Encoder-111111?style=for-the-badge" alt="Media Encoder application badge" />
-<img height="28" src="https://img.shields.io/badge/FFmpeg-111111?style=for-the-badge&amp;logo=ffmpeg&amp;logoColor=eeeeeb" alt="FFmpeg application badge" />
-
+<p align="left">
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/after-effects.svg" alt="Adobe After Effects application badge" />
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/premiere-pro.svg" alt="Adobe Premiere Pro application badge" />
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/davinci-resolve.svg" alt="DaVinci Resolve application badge" />
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/capcut.svg" alt="CapCut application badge" />
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/media-encoder.svg" alt="Adobe Media Encoder application badge" />
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/ffmpeg.svg" alt="FFmpeg application badge" />
 </p>
 
 **02 / 3D, CGI, simulation & compositing**
 
-<p>
-
-<img height="28" src="https://img.shields.io/badge/Blender-111111?style=for-the-badge&amp;logo=blender&amp;logoColor=eeeeeb" alt="Blender application badge" />
-<img height="28" src="https://img.shields.io/badge/Houdini-111111?style=for-the-badge&amp;logo=houdini&amp;logoColor=eeeeeb" alt="Houdini application badge" />
-<img height="28" src="https://img.shields.io/badge/Unreal%20Engine-111111?style=for-the-badge&amp;logo=unrealengine&amp;logoColor=eeeeeb" alt="Unreal Engine application badge" />
-<img height="28" src="https://img.shields.io/badge/Cinema%204D-111111?style=for-the-badge&amp;logo=cinema4d&amp;logoColor=eeeeeb" alt="Cinema 4D application badge" />
-<img height="28" src="https://img.shields.io/badge/Nuke-111111?style=for-the-badge&amp;logo=nuke&amp;logoColor=eeeeeb" alt="Nuke application badge" />
-<img height="20" width="20" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/logos/embergen.svg" alt="" />&nbsp;<img height="28" src="https://img.shields.io/badge/EmberGen-111111?style=for-the-badge" alt="EmberGen application badge" />
-
-<img height="20" src="https://docs.derivative.ca/resources/assets/logo.png" alt="" />&nbsp;<img height="28" src="https://img.shields.io/badge/TouchDesigner-111111?style=for-the-badge" alt="TouchDesigner application badge" />
-<img height="28" src="https://img.shields.io/badge/Marvelous%20Designer-111111?style=for-the-badge" alt="Marvelous Designer application badge" />
-<img height="20" width="20" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/logos/substance-3d-painter.svg" alt="" />&nbsp;<img height="28" src="https://img.shields.io/badge/Substance%203D%20Painter-111111?style=for-the-badge" alt="Substance 3D Painter application badge" />
-<img height="20" width="20" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/logos/substance-3d-designer.svg" alt="" />&nbsp;<img height="28" src="https://img.shields.io/badge/Substance%203D%20Designer-111111?style=for-the-badge" alt="Substance 3D Designer application badge" />
-<img height="28" src="https://img.shields.io/badge/Daz%20Studio-111111?style=for-the-badge" alt="Daz Studio application badge" />
-<img height="28" src="https://img.shields.io/badge/SynthEyes-111111?style=for-the-badge" alt="SynthEyes application badge" />
-<img height="28" src="https://img.shields.io/badge/Quixel%20Bridge-111111?style=for-the-badge" alt="Quixel Bridge application badge" />
-<img height="20" width="20" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/logos/blender.svg" alt="" />&nbsp;<img height="28" src="https://img.shields.io/badge/Geometry%20Nodes-111111?style=for-the-badge" alt="Geometry Nodes application badge" />
-
+<p align="left">
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/blender.svg" alt="Blender application badge" />
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/houdini.svg" alt="Houdini application badge" />
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/unreal-engine.svg" alt="Unreal Engine application badge" />
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/cinema-4d.svg" alt="Cinema 4D application badge" />
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/nuke.svg" alt="Nuke application badge" />
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/embergen.svg" alt="EmberGen application badge" />
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/touchdesigner.svg" alt="TouchDesigner application badge" />
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/marvelous-designer.svg" alt="Marvelous Designer application badge" />
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/substance-3d-painter.svg" alt="Substance 3D Painter application badge" />
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/substance-3d-designer.svg" alt="Substance 3D Designer application badge" />
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/daz-studio.svg" alt="Daz Studio application badge" />
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/syntheyes.svg" alt="SynthEyes application badge" />
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/quixel-bridge.svg" alt="Quixel Bridge application badge" />
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/geometry-nodes.svg" alt="Blender Geometry Nodes application badge" />
 </p>
 
 **03 / Design, illustration & art direction**
 
-<p>
-
-<img height="20" width="20" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/logos/photoshop.svg" alt="" />&nbsp;<img height="28" src="https://img.shields.io/badge/Photoshop-111111?style=for-the-badge" alt="Photoshop application badge" />
-<img height="20" width="20" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/logos/illustrator.svg" alt="" />&nbsp;<img height="28" src="https://img.shields.io/badge/Illustrator-111111?style=for-the-badge" alt="Illustrator application badge" />
-<img height="28" src="https://img.shields.io/badge/Krita-111111?style=for-the-badge&amp;logo=krita&amp;logoColor=eeeeeb" alt="Krita application badge" />
-<img height="20" src="https://www.clipstudio.net/view/img/common/top_main_CSP_logo_app_bk.png" alt="" />&nbsp;<img height="28" src="https://img.shields.io/badge/Clip%20Studio%20Paint-111111?style=for-the-badge" alt="Clip Studio Paint application badge" />
-<img height="28" src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&amp;logo=figma&amp;logoColor=eeeeeb" alt="Figma application badge" />
-<img height="28" src="https://img.shields.io/badge/Framer-111111?style=for-the-badge&amp;logo=framer&amp;logoColor=eeeeeb" alt="Framer application badge" />
-<img height="20" width="20" src="https://www.pureref.com/images/purereflogo.jpg" alt="" />&nbsp;<img height="28" src="https://img.shields.io/badge/PureRef-111111?style=for-the-badge" alt="PureRef application badge" />
-<img height="28" src="https://img.shields.io/badge/Adobe%20Bridge-111111?style=for-the-badge" alt="Adobe Bridge application badge" />
-
+<p align="left">
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/photoshop.svg" alt="Adobe Photoshop application badge" />
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/illustrator.svg" alt="Adobe Illustrator application badge" />
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/krita.svg" alt="Krita application badge" />
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/clip-studio-paint.svg" alt="Clip Studio Paint application badge" />
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/figma.svg" alt="Figma application badge" />
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/framer.svg" alt="Framer application badge" />
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/pureref.svg" alt="PureRef application badge" />
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/adobe-bridge.svg" alt="Adobe Bridge application badge" />
 </p>
 
 **04 / Audio & sound workflow**
 
-<p>
-
-<img height="28" src="https://img.shields.io/badge/FL%20Studio-111111?style=for-the-badge" alt="FL Studio application badge" />
-<img height="20" width="20" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/logos/audition.svg" alt="" />&nbsp;<img height="28" src="https://img.shields.io/badge/Adobe%20Audition-111111?style=for-the-badge" alt="Adobe Audition application badge" />
-
+<p align="left">
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/fl-studio.svg" alt="FL Studio application badge" />
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/audition.svg" alt="Adobe Audition application badge" />
 </p>
 
 **05 / AI-assisted visual exploration**
 
-<p>
-
-<img height="20" width="20" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/logos/comfyui.svg" alt="" />&nbsp;<img height="28" src="https://img.shields.io/badge/ComfyUI-111111?style=for-the-badge" alt="ComfyUI application badge" />
-<img height="20" width="20" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/logos/sora.svg" alt="" />&nbsp;<img height="28" src="https://img.shields.io/badge/Sora-111111?style=for-the-badge" alt="Sora application badge" />
-<img height="20" width="20" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/logos/higgsfield.svg" alt="" />&nbsp;<img height="28" src="https://img.shields.io/badge/Higgsfield-111111?style=for-the-badge" alt="Higgsfield application badge" />
-<img height="28" src="https://img.shields.io/badge/Weavy-111111?style=for-the-badge" alt="Weavy application badge" />
-<img height="20" width="20" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/logos/nano-banana.svg" alt="" />&nbsp;<img height="28" src="https://img.shields.io/badge/Nano%20Banana-111111?style=for-the-badge" alt="Nano Banana application badge" />
-<img height="20" width="20" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/logos/chatgpt.svg" alt="" />&nbsp;<img height="28" src="https://img.shields.io/badge/ChatGPT-111111?style=for-the-badge" alt="ChatGPT application badge" />
-<img height="28" src="https://img.shields.io/badge/Gemini-111111?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=eeeeeb" alt="Gemini application badge" />
-
+<p align="left">
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/comfyui.svg" alt="ComfyUI application badge" />
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/sora.svg" alt="Sora application badge" />
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/higgsfield.svg" alt="Higgsfield application badge" />
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/weavy.svg" alt="Weavy application badge" />
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/nano-banana.svg" alt="Nano Banana application badge" />
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/chatgpt.svg" alt="ChatGPT application badge" />
+<img height="34" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/app-badges/gemini.svg" alt="Google Gemini application badge" />
 </p>
 
 **Creative workflow & production support**  
