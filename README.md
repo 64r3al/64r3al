@@ -296,35 +296,88 @@ Supabase / PostgreSQL · MongoDB · REST APIs · Discord API · Groq Whisper API
 
 ### 02 / Creative applications
 
-A broader view of the applications I use across editing, design, 3D/VFX, audio, and AI-assisted visual workflows. The logo grid uses recognizable icons where the library has a supported mark; specialist tools are included in the categorized directory below.
+A practical directory of the creative applications I use across editing, design, 3D/VFX, audio, and AI-assisted visual workflows. Branded icons are used where reliably available; every specialist tool also gets a readable label so it never disappears from the grid.
 
-<p align="center">
+**01 / Editing, motion & delivery**
 
-<img src="https://skillicons.dev/icons?i=ae,pr,ps,ai,au,xd,blender,unreal,figma&amp;theme=dark&amp;perline=5" alt="Supported creative-application icons: Adobe After Effects, Premiere Pro, Photoshop, Illustrator, Audition, XD, Blender, Unreal Engine, and Figma." />
+<p>
+
+<img height="28" src="https://img.shields.io/badge/After%20Effects-111111?style=for-the-badge&amp;logo=adobeaftereffects&amp;logoColor=eeeeeb" alt="After Effects application badge" />
+<img height="28" src="https://img.shields.io/badge/Premiere%20Pro-111111?style=for-the-badge&amp;logo=adobepremierepro&amp;logoColor=eeeeeb" alt="Premiere Pro application badge" />
+<img height="28" src="https://img.shields.io/badge/DaVinci%20Resolve-111111?style=for-the-badge&amp;logo=davinciresolve&amp;logoColor=eeeeeb" alt="DaVinci Resolve application badge" />
+<img height="28" src="https://img.shields.io/badge/CapCut-111111?style=for-the-badge&amp;logo=capcut&amp;logoColor=eeeeeb" alt="CapCut application badge" />
+<img height="28" src="https://img.shields.io/badge/Media%20Encoder-111111?style=for-the-badge" alt="Media Encoder application badge" />
+<img height="28" src="https://img.shields.io/badge/FFmpeg-111111?style=for-the-badge&amp;logo=ffmpeg&amp;logoColor=eeeeeb" alt="FFmpeg application badge" />
 
 </p>
 
-<p align="center"><sub>EDIT & FINISH · DESIGN · 3D / CGI · AUDIO · CREATIVE WORKFLOW · AI-ASSISTED IDEATION</sub></p>
 
-**01 / Editing, motion & delivery**  
-Adobe After Effects · Adobe Premiere Pro · DaVinci Resolve · CapCut · Adobe Media Encoder · FFmpeg
+**02 / 3D, CGI, simulation & compositing**
 
-**02 / 3D, CGI, simulation & compositing**  
-Blender (including Geometry Nodes) · Houdini · Unreal Engine · Cinema 4D · Nuke · EmberGen · TouchDesigner · Marvelous Designer · Substance 3D · SynthEyes
+<p>
 
-**03 / Design, illustration & art direction**  
-Adobe Photoshop · Adobe Illustrator · Krita · Clip Studio Paint · Framer · Figma · PureRef · Adobe Bridge · Quixel Bridge
+<img height="28" src="https://img.shields.io/badge/Blender-111111?style=for-the-badge&amp;logo=blender&amp;logoColor=eeeeeb" alt="Blender application badge" />
+<img height="28" src="https://img.shields.io/badge/Houdini-111111?style=for-the-badge&amp;logo=houdini&amp;logoColor=eeeeeb" alt="Houdini application badge" />
+<img height="28" src="https://img.shields.io/badge/Unreal%20Engine-111111?style=for-the-badge&amp;logo=unrealengine&amp;logoColor=eeeeeb" alt="Unreal Engine application badge" />
+<img height="28" src="https://img.shields.io/badge/Cinema%204D-111111?style=for-the-badge&amp;logo=cinema4d&amp;logoColor=eeeeeb" alt="Cinema 4D application badge" />
+<img height="28" src="https://img.shields.io/badge/Nuke-111111?style=for-the-badge&amp;logo=nuke&amp;logoColor=eeeeeb" alt="Nuke application badge" />
+<img height="28" src="https://img.shields.io/badge/EmberGen-111111?style=for-the-badge&amp;logo=embergen&amp;logoColor=eeeeeb" alt="EmberGen application badge" />
+<img height="28" src="https://img.shields.io/badge/TouchDesigner-111111?style=for-the-badge&amp;logo=touchdesigner&amp;logoColor=eeeeeb" alt="TouchDesigner application badge" />
+<img height="28" src="https://img.shields.io/badge/Marvelous%20Designer-111111?style=for-the-badge&amp;logo=marvelousdesigner&amp;logoColor=eeeeeb" alt="Marvelous Designer application badge" />
+<img height="28" src="https://img.shields.io/badge/Substance%203D%20Painter-111111?style=for-the-badge&amp;logo=adobesubstance3d&amp;logoColor=eeeeeb" alt="Substance 3D Painter application badge" />
+<img height="28" src="https://img.shields.io/badge/Substance%203D%20Designer-111111?style=for-the-badge&amp;logo=adobesubstance3d&amp;logoColor=eeeeeb" alt="Substance 3D Designer application badge" />
+<img height="28" src="https://img.shields.io/badge/Daz%20Studio-111111?style=for-the-badge" alt="Daz Studio application badge" />
+<img height="28" src="https://img.shields.io/badge/SynthEyes-111111?style=for-the-badge" alt="SynthEyes application badge" />
+<img height="28" src="https://img.shields.io/badge/Quixel%20Bridge-111111?style=for-the-badge" alt="Quixel Bridge application badge" />
+<img height="28" src="https://img.shields.io/badge/Geometry%20Nodes-111111?style=for-the-badge" alt="Geometry Nodes application badge" />
 
-**04 / Audio & sound workflow**  
-FL Studio · Adobe Audition · FFmpeg
+</p>
 
-**05 / AI-assisted visual exploration**  
-ComfyUI · Sora · Higgsfield · Weavy · Nano Banana
 
-**06 / Creative scripting & production support**  
-ExtendScript · Adobe CEP extensions · After Effects expressions · Git / GitHub · GitHub Actions · Vercel · GitHub Pages
+**03 / Design, illustration & art direction**
 
-I use these tools to move from concept and visual direction through production, refinement, automation, and delivery. The list reflects my working toolkit across different projects—not a claim of equal specialization in every application.
+<p>
+
+<img height="28" src="https://img.shields.io/badge/Photoshop-111111?style=for-the-badge&amp;logo=adobephotoshop&amp;logoColor=eeeeeb" alt="Photoshop application badge" />
+<img height="28" src="https://img.shields.io/badge/Illustrator-111111?style=for-the-badge&amp;logo=adobeillustrator&amp;logoColor=eeeeeb" alt="Illustrator application badge" />
+<img height="28" src="https://img.shields.io/badge/Krita-111111?style=for-the-badge&amp;logo=krita&amp;logoColor=eeeeeb" alt="Krita application badge" />
+<img height="28" src="https://img.shields.io/badge/Clip%20Studio%20Paint-111111?style=for-the-badge" alt="Clip Studio Paint application badge" />
+<img height="28" src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&amp;logo=figma&amp;logoColor=eeeeeb" alt="Figma application badge" />
+<img height="28" src="https://img.shields.io/badge/Framer-111111?style=for-the-badge&amp;logo=framer&amp;logoColor=eeeeeb" alt="Framer application badge" />
+<img height="28" src="https://img.shields.io/badge/PureRef-111111?style=for-the-badge" alt="PureRef application badge" />
+<img height="28" src="https://img.shields.io/badge/Adobe%20Bridge-111111?style=for-the-badge&amp;logo=adobebridge&amp;logoColor=eeeeeb" alt="Adobe Bridge application badge" />
+
+</p>
+
+
+**04 / Audio & sound workflow**
+
+<p>
+
+<img height="28" src="https://img.shields.io/badge/FL%20Studio-111111?style=for-the-badge&amp;logo=flstudio&amp;logoColor=eeeeeb" alt="FL Studio application badge" />
+<img height="28" src="https://img.shields.io/badge/Adobe%20Audition-111111?style=for-the-badge&amp;logo=adobeaudition&amp;logoColor=eeeeeb" alt="Adobe Audition application badge" />
+
+</p>
+
+
+**05 / AI-assisted visual exploration**
+
+<p>
+
+<img height="28" src="https://img.shields.io/badge/ComfyUI-111111?style=for-the-badge" alt="ComfyUI application badge" />
+<img height="28" src="https://img.shields.io/badge/Sora-111111?style=for-the-badge&amp;logo=openai&amp;logoColor=eeeeeb" alt="Sora application badge" />
+<img height="28" src="https://img.shields.io/badge/Higgsfield-111111?style=for-the-badge" alt="Higgsfield application badge" />
+<img height="28" src="https://img.shields.io/badge/Weavy-111111?style=for-the-badge" alt="Weavy application badge" />
+<img height="28" src="https://img.shields.io/badge/Nano%20Banana-111111?style=for-the-badge" alt="Nano Banana application badge" />
+<img height="28" src="https://img.shields.io/badge/ChatGPT-111111?style=for-the-badge&amp;logo=openai&amp;logoColor=eeeeeb" alt="ChatGPT application badge" />
+<img height="28" src="https://img.shields.io/badge/Gemini-111111?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=eeeeeb" alt="Gemini application badge" />
+
+</p>
+
+**Creative workflow & production support**  
+Adobe CEP extensions · After Effects expressions · Blender Geometry Nodes · FFmpeg workflows · Git / GitHub · GitHub Actions · Vercel · GitHub Pages
+
+I use these tools to move from concept and visual direction through production, refinement, automation, and delivery. This reflects my working toolkit across different projects—not a claim of equal specialization in every application.
 
 <a id="languages"></a>
 
