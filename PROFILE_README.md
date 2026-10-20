@@ -322,12 +322,12 @@ A practical directory of the creative applications I use across editing, design,
 <img height="28" src="https://img.shields.io/badge/Nuke-111111?style=for-the-badge&amp;logo=nuke&amp;logoColor=eeeeeb" alt="Nuke application badge" />
 <img height="20" width="20" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/logos/embergen.svg" alt="" />&nbsp;<img height="28" src="https://img.shields.io/badge/EmberGen-111111?style=for-the-badge" alt="EmberGen application badge" />
 
-<img height="28" src="https://img.shields.io/badge/TouchDesigner-111111?style=for-the-badge" alt="TouchDesigner application badge" />
+<img height="20" src="https://docs.derivative.ca/resources/assets/logo.png" alt="" />&nbsp;<img height="28" src="https://img.shields.io/badge/TouchDesigner-111111?style=for-the-badge" alt="TouchDesigner application badge" />
 <img height="28" src="https://img.shields.io/badge/Marvelous%20Designer-111111?style=for-the-badge" alt="Marvelous Designer application badge" />
 <img height="20" width="20" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/logos/substance-3d-painter.svg" alt="" />&nbsp;<img height="28" src="https://img.shields.io/badge/Substance%203D%20Painter-111111?style=for-the-badge" alt="Substance 3D Painter application badge" />
 <img height="20" width="20" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/logos/substance-3d-designer.svg" alt="" />&nbsp;<img height="28" src="https://img.shields.io/badge/Substance%203D%20Designer-111111?style=for-the-badge" alt="Substance 3D Designer application badge" />
 <img height="28" src="https://img.shields.io/badge/Daz%20Studio-111111?style=for-the-badge" alt="Daz Studio application badge" />
-<img height="28" src="https://img.shields.io/badge/SynthEyes-111111?style=for-the-badge" alt="SynthEyes application badge" />
+<img height="24" src="https://borisfx-com-res.cloudinary.com/image/upload/v1772151178/Marketing/2026%20Logos/SynthEyes/Horizontal/Light/SVG/SynthEyes_Horizontal.png" alt="SynthEyes official product logo" />
 <img height="28" src="https://img.shields.io/badge/Quixel%20Bridge-111111?style=for-the-badge" alt="Quixel Bridge application badge" />
 <img height="28" src="https://img.shields.io/badge/Geometry%20Nodes-111111?style=for-the-badge" alt="Geometry Nodes application badge" />
 
@@ -340,10 +340,10 @@ A practical directory of the creative applications I use across editing, design,
 <img height="20" width="20" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/logos/photoshop.svg" alt="" />&nbsp;<img height="28" src="https://img.shields.io/badge/Photoshop-111111?style=for-the-badge" alt="Photoshop application badge" />
 <img height="20" width="20" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/logos/illustrator.svg" alt="" />&nbsp;<img height="28" src="https://img.shields.io/badge/Illustrator-111111?style=for-the-badge" alt="Illustrator application badge" />
 <img height="28" src="https://img.shields.io/badge/Krita-111111?style=for-the-badge&amp;logo=krita&amp;logoColor=eeeeeb" alt="Krita application badge" />
-<img height="28" src="https://img.shields.io/badge/Clip%20Studio%20Paint-111111?style=for-the-badge" alt="Clip Studio Paint application badge" />
+<img height="20" src="https://www.clipstudio.net/view/img/common/top_main_CSP_logo_app_bk.png" alt="" />&nbsp;<img height="28" src="https://img.shields.io/badge/Clip%20Studio%20Paint-111111?style=for-the-badge" alt="Clip Studio Paint application badge" />
 <img height="28" src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&amp;logo=figma&amp;logoColor=eeeeeb" alt="Figma application badge" />
 <img height="28" src="https://img.shields.io/badge/Framer-111111?style=for-the-badge&amp;logo=framer&amp;logoColor=eeeeeb" alt="Framer application badge" />
-<img height="28" src="https://img.shields.io/badge/PureRef-111111?style=for-the-badge" alt="PureRef application badge" />
+<img height="20" width="20" src="https://www.pureref.com/images/purereflogo.jpg" alt="" />&nbsp;<img height="28" src="https://img.shields.io/badge/PureRef-111111?style=for-the-badge" alt="PureRef application badge" />
 <img height="28" src="https://img.shields.io/badge/Adobe%20Bridge-111111?style=for-the-badge" alt="Adobe Bridge application badge" />
 
 </p>
