@@ -300,7 +300,7 @@ A broader view of the applications I use across editing, design, 3D/VFX, audio, 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=ae,pr,davinci,ps,ai,animate,indesign,lightroom,xd,bridge,au,blender,unreal,figma,canva,gimp,sketchup,ffmpeg,ableton,notion,obsidian,chatgpt,gemini&amp;theme=dark&amp;perline=8" alt="Creative applications and production tools: After Effects, Premiere Pro, DaVinci Resolve, Photoshop, Illustrator, Animate, InDesign, Lightroom, XD, Bridge, Audition, Blender, Unreal Engine, Figma, Canva, GIMP, SketchUp, FFmpeg, Ableton Live, Notion, Obsidian, ChatGPT, and Gemini." />
+<img src="https://skillicons.dev/icons?i=ae,pr,ps,ai,au,xd,blender,unreal,figma&amp;theme=dark&amp;perline=5" alt="Supported creative-application icons: Adobe After Effects, Premiere Pro, Photoshop, Illustrator, Audition, XD, Blender, Unreal Engine, and Figma." />
 
 </p>
 
