@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-banner.gif" alt="64R3AL / IVX — looping animated monochrome banner with bold editorial typography, a moving technical-orbit marker, and a four-stage creative workflow rail." />
+<img width="100%" src="https://raw.githubusercontent.com/64r3al/IVX/main/assets/ivx-motion-banner.svg" alt="64R3AL / IVX — looping animated monochrome banner with bold editorial typography, a moving technical-orbit marker, and a four-stage creative workflow rail." />
 
 </div>
 
@@ -227,7 +227,7 @@ Good UI covers the whole journey—not just the ideal screenshot.
 
 I prefer motion that **communicates**, rather than animation for its own sake: subtle reveals, short transitions, directional movement, restrained scanning highlights, and clear feedback. Movement should support hierarchy and state changes, stay lightweight, and never make essential information hard to read.
 
-The profile header uses a real looping GIF for motion on GitHub. The README itself cannot run custom JavaScript or CSS-driven app interactions, so the animation is delivered as image assets rather than pretending the profile is an interactive website.
+The header uses a restrained monochrome vector illustration with a subtle moving highlight; the looping dividers provide additional low-key motion. The README itself cannot run custom JavaScript or CSS-driven app interactions, so motion stays inside image assets rather than pretending the profile is an interactive website.
 
 ### Where this practice shows up
 
